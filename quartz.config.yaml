@@ -11,6 +11,7 @@ configuration:
     - private
     - templates
     - .obsidian
+    - "**/_excluded/**"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -256,7 +257,7 @@ plugins:
       includedProperties:
         - description
         - tags
-        - aliases
+        # - aliases
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
