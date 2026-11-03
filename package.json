@@ -2,7 +2,7 @@
   "name": "talia-campaign-wiki",
   "description": "Wiki for the Talia Campaign",
   "private": true,
-  "version": "1.0.0",
+  "version": "5.0.0",
   "type": "module",
   "author": "Pebbleflinger",
   "repository": {
