@@ -10,7 +10,7 @@ aliases:
 > ```base
 > filters:
 >   and:
->     - type == "session"
+>     - file.inFolder("Session Notes")
 >     - file.hasLink(this.file)
 > views:
 >   - type: list
