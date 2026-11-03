@@ -1,16 +1,17 @@
 ---
+type: article
 aliases:
 ---
 
 
 ---
 
-> [!NOTE]- Appeared in Sessions
+> [!NOTE]- Mentioned in Sessions
 > 
 > ```base
 > filters:
 >   and:
->     - file.inFolder("Session Notes")
+>     - type == "session"
 >     - file.hasLink(this.file)
 > views:
 >   - type: list
