@@ -3,12 +3,7 @@ type: article
 aliases:
   - Elduin
 ---
-# About
-
-High Elven Ambassador.
-
-- Aethel'eren
-
+A High Elven Ambassador from [[Aethel'eren]].
 
 ---
 
