@@ -2,7 +2,7 @@
 type: article
 aliases:
 ---
-The capital city of [[Taldor]].
+The capital city of [[Taldor]]. It is a sprawling metropolis divided into districts tied to social class and wealth.
 
 ---
 

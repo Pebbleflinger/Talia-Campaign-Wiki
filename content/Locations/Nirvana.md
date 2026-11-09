@@ -2,7 +2,9 @@
 type: article
 aliases:
 ---
-Also called the Sanctuary of Enlightenment, it is a plane of pure good unrestricted by law nor disrupted by chaos.
+Also called the Sanctuary of Enlightenment, it is a plane of pure good unrestricted by law nor disrupted by chaos. [[Shelyn]] and [[Sarenrae]] reside in Nirvana.
+
+The party accidentally teleported to Nirvana when Plex' Planetrotting spell misfired.
 
 ---
 

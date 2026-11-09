@@ -2,7 +2,7 @@
 type: article
 aliases:
 ---
-
+A now-fallen empire of [[Lizardfolk]] and [[Yuan-Ti]]. Many traces of the empire remain in the southern reaches of [[Erastrea]], and it may not be as dead as it seems.
 
 ---
 

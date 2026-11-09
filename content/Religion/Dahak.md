@@ -2,7 +2,7 @@
 type: article
 aliases:
 ---
-The Dragon Aspect of Might, Dahak the Black.
+The [[Dragon Aspect]] of Might, Dahak the Black.
 
 ---
 

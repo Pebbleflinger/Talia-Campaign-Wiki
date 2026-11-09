@@ -2,8 +2,9 @@
 type: article
 aliases:
   - spellwards
+  - wards
 ---
-Pieces of jewellery commonly worn by the people of [[Ildilas]]. Spellwards can be anything from bracelets to rings or necklaces, but they are all made of a silvery alloy that slightly inhibits spellcasting. The Ildic culture around spellwards is extensive.
+Pieces of jewellery commonly worn by the people of [[Ildilas]]. Spellwards (or wards for short) can be anything from bracelets to rings or necklaces, but they are all made of a silvery alloy that slightly inhibits spellcasting. The Ildic culture around spellwards is extensive.
 
 ---
 

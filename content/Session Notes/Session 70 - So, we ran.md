@@ -1,0 +1,54 @@
+---
+type: session
+---
+After being accused by the [[King Gandogar|king of Lessia]] of controlling the undead army, Fearghas refuses to put up with any more of that nonsense, and teleports us all to their flying island, **[[Promise]]**. Wait… me too? What about **[[Linzi the bard|Linzi]]**? We can't leave her behind!
+
+As we materialise, there is a sound of metal falling, and **[[Plex]]** appears, trying to carry three full sets of plate armour, and failing. He takes a tumble and has a grumble about carrying all this. (Thank you Domi for the pipes falling sound, peak immersion.) [[Aviana Winterwing|Aviana]] offers ME Linzi's job, but I decline saying we must go back for my Halfling friend. Plex claims he traded the dead body that was inside one of the suits of plate armour while he was in the **[[Feywild]]**. [[Fearghas MacAllistar|Fearghas]] and Aviana are trying very hard to get him to say what he got in exchange for the body.
+
+Plex traded the body of a dead dwarven hero for the freedom of his goblin friends **[[Antx]] and [[Prantx]]**. He said it just in time to stop Fearghas from having a seizure. I'm not sure if I could heal that, definitely not with my wards on. Shudder…
+
+We argue about the morality of eating and selling people. Could I heal myself if I had a seizure? I feel like I might find out, after hearing [[Shalkoc Zornaxc|Shalkoc]]'s arguments about selling organs. We also discuss what to do with the undead dragon's corpse, which Aviana is still lugging around like it's nothing.
+
+Aviana contacts Linzi with a spell gem of **Sending** ("the rock from the Hell Lady"), and tells her to return to Promise. Linzi replies that she is hiding in the mines of [[Lessia]] with **[[Barrik]]**. Fearghas contacts Barrik with his own Sending spell, asking what is going on and whether Barrik needs picking up. Barrik replies that the king has started forcefully arresting people, and he fled with other people towards **[[Ukgluz]]**.
+
+Fearghas turns into a cloud and skedaddles off to the mines of Lessia to teleport Barrik and his party to Promise. I slump on a couch inside the cabin, trying to recover from the whirlwind I have been swept into, when Aviana yells to me about dwarven smut stories, and Plex is looking for a sharp rock. Shalkoc is going up to his hoard to stow the dead undead dragon there. The dragon whom we sharply reminded of its own demise. Shalkoc wants it, for some reason. Aviana is looking for tools to make a tiara… for… me? Out of jade and dragon… bits? One of Shalkoc's scales? And a brick? She seems to struggle immensely, I somehow feel like Fearghas is here with us, shaking his head.
+
+Aviana fumbles her crafting, and asks Shalkoc for further scales. I have a feverish image in my head of a harpy attempting to pluck a [[Dragonborn]] like a chicken. In my defence, it is one in the morning, I have survived a battle and been teleported to a floating island, and feel I am starting to lose my wits.
+
+I make some tea, and try to convince Plex to partake in a relaxing brew, but he sneaks off to town rambling about paint and gambling. He ignores my pleas about going to bed, and gets stopped at the gates by a guard who is convinced that our goblin is drunk. Plex attempts to explain that he lives in the forest, and much like Shalkoc earlier on the topic of selling people, or parts thereof, he only mires himself deeper. The guard leads him to the barracks to sleep off the assumed ale. Plex sneaks off, and wakes the entire town as he raises an alarm.
+
+I give up looking for him and curl up on the couch to get some rest. I've slept much worse places. In the last week even. At least the couch is indoors, it's warm, and I assume the likelihood of being woken by slavers, or abyssal horrors, or why not both, is about as low as it's been ever since **[[Edgar]]'s shady friend** dropped me off on the coast of [[Erastrea]].
+
+While I sleep, Shalkoc drapes a blanket over me without waking me, because he is very sneaky. How nice! But then Aviana goes to the town, growing huge again as Plex's **Microscopic Proportions** spell wears off. Predictably, she scares everyone out of their minds as she stomps around, a giant in the middle of the night. She claims it was just a test to get people accustomed to giants, as there is a trade agreement with, well, giants. She runs into Plex, who is still looking for paint. At this point I assume he means to fill his little lungs with the fumes, just for the funny feeling.
+
+Even in my troubled dreams, I miss Fearghas' common sense.
+
+Speaking of Fearghas, he is struggling to find Barrik and his party, having been to the mines very seldom. He is taking a long time finding his way, and has to cast **Wind Walk** again. As he does that, a wild magic surge hits him, teleporting him to the **[[Plane of Water|Elemental Plane of Water]]**. He drops into a deep, dark ocean with no prior warning. Does a cloud feel wet? This one certainly does, and grumbles healthily about wild magic.
+
+I suddenly get upsetting dreams of Fearghas sinking in bubbling darkness. There is no way I am waking well-rested from all of this. He chugs a potion of Water Breathing, casts **Mordenkainen's Magnificent Mansion** to escape the water (and sounds of whales and… ghost leviathans?? Aerelia I know you are going to read this, are you a Subnautica nerd? Great game, I cannot for the life of me play it. Not enough brown pants. Anyways. _- Haven't played it myself but I've watched multiple lets plays. Let's just say I'd find playing the game myself very boring because I wouldn't dare venture past the shallows…_), and then teleports back to **Locus**, from where he flies back, in cloud form, to the mines of Lessia to "find those fuckers".
+
+"I will pitch you like a baseball." - Aviana, 1497
+
+And she does in fact, chuck the goblin and jumps away, landing in a massive explosion due to her cursed **Thunderfeet Footwraps**… Realising that jumping was a poor decision, she walks back to the cabin. She still cannot enter it due to being massive. She tries to cover herself with a dozen tiny (for her) blankets. I could probably wrap myself up in just one of these blankets like one Halfling maki roll.
+
+Fearghas finally finds Barrik's party, they wonder why he is drenched but he clears it up with **Prestidigitation**. Even this much magic is terrifying to dwarves of Lessia, but Fearghas promises it's going to be all right, that magic is not scary. (I press X.) He works hard at convincing them that TELEPORTING is not scary magic. It takes one full hour, but props to ya, Fearghas. They all appear in Locus at dawn, and make their way to the cabin by morning.
+
+I am woken by a completely exhausted Fearghas and many dwarves; he offers a room for me, and shuffles off to his own room to sleep. We meet up around three in the afternoon and go down to the living room to discuss what the hell we do.
+
+I confess to the party that I am a spy for the **[[Drow]]**. Fearghas is angry, but he believes me and understands that I had no choice. I try to explain exactly how strong the [[Filrae Vandree|Lady Vandree]] is, but I am no scholar, and can only relate what I've seen. Aviana suggests making friends, or fighting! Are they taking this seriously? When the matron comes for me on Friday, our lives will be on the line.
+
+Fearghas proceeds to ~~google my boss~~ cast **Legend Lore** on the Matron of House Vandree. The spell only brings isolated words; exile, revenge, ambition. He then directs the spell to the **[[Dahak's Left Eye|Left Eye of Dahak]]**; it is as expected an artifact of immense power.
+
+We decide to go down to **Ukgluz**, and try to prepare for a confrontation with the Drow matron. Fearghas gives me a spellgem of **Nondetection** to shield myself from the matron's scrying spells (I assume that is what she is using to find me), and he places in his breast pocket one spellgem of **Revivify**, and a diamond that can be used to cast **Raise Dead**, in case one of us dies. Sadly he does not have a black sapphire, so I remain unable to summon my Umbral Spirit.
+
+Aviana is considering which spirit to be blessed by, Fearghas is muttering about spells and gems, Plex suggests casting **Death Ward** on me. We are trying to figure out how to find the matron. I give as much information on the Drow as I can; the matron doesn't usually participate in combat, her three consorts are also powerful spellcasters, and the fighters are the backstabbing kind, or the shooting from afar kind. They are not keen on taking risks, as they aren't versed in healing magic.
+
+Shalkoc flies off to find an ally of the party's, a spidery Drow lady called **[[Kali]]**, with very unsettling eyes. Fearghas casts **Comprehend Languages** because Kali speaks Druidic. We learn that House Vandree was led by twins… so my boss, the one who does NOT have the scar on her left eye, has a twin sister. One of the sisters was pronounced dead some years ago, but rumour has it that she was still alive. That is probably my boss. Kali giggles and says "You have no idea who you are dealing with, do you?", and tells us that House Vandree specialises in assassinations, and that their contracts are very expensive.
+
+Plex wants to use me as bait, to draw the Drow party out and beat them up. I do not think that's a good idea.
+
+The longer the conversation with Kali goes, the more concerned I get… House Vandree has immense power, and even an exiled matron is more powerful than I can imagine. I suspect that trying to fight her will get us all killed, or worse. Kali suggests we go to the **[[Abyss]]** and hire a DEMON to help us. (IRL my heart went cold at that.) Aviana tries to give to Kali a pristine white dress of an angel, bought in **[[Hell]]**. Kali is not terribly keen, considering the lack of pockets. I'm just sitting here white as a sheet at the talk of demons and angels. Eventually the memories haunting me are too much, and I am violently sick.
+
+Fearghas decides to **Wind Walk** to Ukgluz and try to find my boss. However, we first stop at Fearghas' parents' shop to pick up supplies for a potion of heroism. Sneakily. As we hover over the shop in cloud form, we see one of the king's honour guards exit and walk away. The shop is closed and dark, but Fearghas' parents are nowhere to be seen. The house bears no signs of struggle, like the couple simply left. In the shop, many of the alchemical tools, and most of the ingredients and potions are missing. Fearghas collects the few remaining ingredients.
+
+We head to **Ukgluz**, take a break for Fearghas to brew us potions of heroism, as Shalkoc whips up some rice balls to snack on. Plex casts **Death Ward** on me. Feeling as prepared as we'll ever be, we float above Ukgluz. It looks a lot more impressive from above, despite extensive destruction from boulders falling from the ceiling. Now… our campaign against the exiled matron of House Vandree begins.
