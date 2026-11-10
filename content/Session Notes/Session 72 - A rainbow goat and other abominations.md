@@ -1,0 +1,75 @@
+---
+type: session
+---
+Just as the fight ends, [[Plex]] and [[Aviana Winterwing|Aviana]] appear in a flash of light. Plex is riding a screaming goat surrounded by rainbow light. We start trying to figure out what is happening, when a man walks up to us, telling us to be quiet. His hair is white and his eyes are purple, very unusual colours for a human… He gives the name **[[Emilio Astray|Emilio]]** and tells us to shut up the goat one way or another. [[Fearghas MacAllistar|Fearghas]] is trying to make ANY sense of the situation, with very little success. [[Shalkoc Zornaxc|Shalkoc]] slaps the goat, Plex ties a piece of yarn around the goat's neck and casts a spell, which stops the goat dead in its tracks, hanging from the now-immovable yarn. Plex flies off the goat's back, pulls a backflip in mid-air, and makes a perfect landing in front of the goat. He is standing halfway into the tent, through the tent really. A surge made him able to pass through walls.
+
+I very tiredly ride [[Onyx Dog Figurine|Dwen]] in search of my [[Spellward|spellwards]], which I let fall during the battle. Emilio says the [[Void]] portal is **extremely dangerous** and needs to be closed right now before anything (more) steps out of it. We try to discuss the goat, and what to do with it, which is very difficult to do over the goat's screaming. Aviana argues that the goat is a political agent in treating with the Feywild, and that it MUST survive. Fearghas and Emilio ask that we please leave the goat behind. Plex is feeding scraps of tent canvas to the rainbow goat, which is trying to strangle itself on the immovable yarn. There is talk of another goat inside the **Iron Flask**.
+
+We decide to rest for a moment before taking care of the portal of impending doom. Fearghas explains to Aviana and Plex what happened while they were in the [[Feywild]]. Shalkoc cooks a re-hydrate streak for himself, a burger for Fearghas, an eyeball-looking cake (??) for Aviana, and a recovery dumpling for me. Our harpy lady tries to give Emilio a cute nickname. He is not keen.
+
+Fearghas asks for clarification about what happened in the Feywild. Aviana "explains":
+
+- Plex made friends with **goat people**
+    
+- People in the Feywild get extremely drunk
+    
+- Aviana lifted a big rock, there was a goat underneath
+    
+- The rock goat was scary, it stepped on Aviana, Plex used a gate to launch Aviana into the air
+    
+- The Fey people gave Plex and Aviana the rainbow goat as a sign of thanks
+    
+- The rock goat is still in the Feywild, and is very angry and Aviana and Plex
+    
+- Plex teleported into the forest and found a lantern goat (our rainbow screaming goat)
+    
+- Plex claims the rainbow goat is a party-saver and his friend
+    
+
+Shalkoc wants to cook the goat, predictably.
+
+Emilio is extremely overwhelmed by all this noise we're making. I try to soothe him, offering a cup of tea, or a chance to pet Dwen. Then Aviana tries to put the rainbow goat in chains. Plex and Aviana try to convince Fearghas to teleport the goat to [[Promise]]. He refuses, also predictably. Aviana begins to apply **nail polish**.
+
+The goat stays behind.
+
+Then Emilio says time is up, and we need to go. We go towards the portal, chugging various potions on the way. The air grows thick with purple mist as we approach. Translucent chains connect to the portal, on either side of a chasm filled with purple smoke. A scream sounds in all our minds; the others recognise the **[[Void Dragon]]**. Misshapen creatures pour out of the portal, along with a wave of Void energy. Acid washes over us, Fearghas and I brace for it just in time, but the others get hit full force. Thankfully (?) I have experience taking acid to the face (maybe Fearghas too?). Plex looks at one of the monsters; it trips over its own claws and dies. One down! That was easy.
+
+I step forward, riding my dog into battle. Brandishing my staff, I throw a **Fireball** at the creatures, frying two on the spot (**Chokers**). Looking at the anchor for one of the chains, I see it is covered in runes. It is sturdy, but if it is hit JUST right, it will shatter. Emilio investigates the chains, after muttering that the runes are in [[Deep Speech]]. The chains are tangible enough to be held… therefore probably pulled… therefore probably yanked out of the portal. Emilio just… points, and blasts the insect-like creature (**Wardu**) three times, with incredible force (haha).
+
+The big spiky creature (**Otyugh**) speaks to us in our minds… it projects images of an enormous purplish dragon covered in eyes. Plex then teleports himself to the portal with an **Arcane Gate** to get a good look. He does not get a good look. He still peers into the portal, and he does not understand what he sees. He's left feeling confused, afraid, and incredibly small and insignificant. Our goblin decides to step back and hide. We can clearly see his efforts.
+
+Shalkoc accidentally steps through Plex' Arcane Gate, looks at the portal up close, and turns to the side real fast-like. He boosts himself with a scale, then ~~spits~~ breathes on the Otyugh. Aviana chugs a potion and becomes massive again. Possibly because her eyes are so big now, she can see the anchors a lot better, and concludes that they can be _disabled_ instead of destroyed. She yells at Plex to turn off the magic thing. Fearghas steps through the Arcane Gate. He gets a _really_ good look at the portal, and theorises he can **overload** that, which could damage it, and possibly destroy it if he were to throw enough magic juice at it. He can't rule out an explosion, but he says we will call that "plan Bee". I don't see any bees around here…
+
+Emilio argues that portals are unstable by nature, and slapping more magic into it probably isn't a good idea. Fearghas then further investigates the anchor, looking for a way to disable it. He puzzles out the Deep Speech, and **disconnects one of the chains** from the portal. The portal… calls… for help. Plex' portal does not answer (we checked). More little shites come through. I knew it wouldn't be that easy…
+
+The portal unleashes another wave of acid. Emilio is hit hard, and Dwen whimpers and reverts to his figurine form. A lot more creatures step through the portal, and last of them, an ominous, staff-bearing abomination scuttles out. That's another **Fireball**. It fries up all the little things, but the scuttling thing (**Core Spawn Seer**) dodges it. I try and fail to disable the anchor. Emilio tries too, but he is short on the brain juice. He fires at the Wardu but only one beam hits.
+
+The Otyugh crawls up to Aviana, clearly impressed by her muscles. Chomp! But Aviana dodges the bite. She slaps the Otyugh's tentacles away. The aberration sends images to her mind of… rule 34?! Which confuses Shalkoc, our sweet summer Dragonborn. We move on. The Core Spawn Seer scuttles over to Shalkoc and whacks him **very** hard with his stick. Shalkoc is severely injured and knocked prone… then the Seer hits him again. He goes down and does not get up again. The Seer then walks away and melts into the ground.
+
+The flying tick (Wardu) looks at Emilio crosswise, then stabs me. Twice. Emilio is deafened by the Wardu's stare. Plex teleports Shalkoc closer to me. He's still not moving, and a wave of acid is coming up… Contrary to Aviana's belief, he CANNOT "take it". Aviana rages and stampedes into the Wardu, which is knocked back and pretty much lands on Emilio. She proceeds to do it again. She then grabs one of the chains (it feels slimy) and yanks it out of the portal. Fearghas walks up to another anchor but he is pushed back, returns to it grumbling, and gets pushed back again. His grumbling intensifies. He smothers it with an extra large potion of healing, just before a new wave of acid rolls out. More enemies appear, including a translucent, purple, humanoid… _thing_.
+
+Shalkoc, if we survive this, you BETTER bake me some honey cakes. I take off my wards and summon what little strength I have left. Nobody is prepared for the burst of **healing** I unleash on Shalkoc; he springs to his feet, back in top shape. Emilio fires his lasers at the Wardu and it pops like a disgusting blood balloon. He tries to disable the anchor and fails, but suffers no bad consequences. Things are slapping Aviana. Things are slapping Fearghas. The Seer scuttles through the portal to Emilio and me. Plex! Help us! Any bright ideas are welcome!
+
+Plex ~~rescues~~ teleports me across the chasm, and makes the Seer smell like ~~feeeeesh~~ fish. He tries very hard to shove the Seer off the edge with **telekinesis**, sadly the scuttling bastard resists it. Plex tries to disable the anchor, but fails and is pushed back. He immediately runs back to stand right in front of the Seer. Shalkoc punches the Seer, but he uses his reaction to swap positions with another [[Voidborn]]… THE BIG PURPLE FUCKER. Shalkoc is unimpressed and punches on, stunning the hulking aberration. He continues to punch! With conviction! So much conviction! But then he tries to yank the chain out, causing it to reverberate. The disturbed chain radiates necrotic energy, hurting us all.
+
+Aviana walks past one of the Otyughs, it bites at her leg, but she is **Unflinching**! She casually continues to walk, dragging the aberration with her, teeth still clamped on her leg. She strides toward the Seer, ignoring minions. She grabs a Wardu and holds it in front of the portal. The Wardu gives her a judgemental glare. She is unfazed. Fearghas tries once more to disable his anchor. This time it's a success! Three more Otyughs crawl out of the portal. Fearghas conjures up one massive hand, then teleports closer to me with a **Misty Step**.
+
+The portal expels another acid wave, but Aviana blocks it alone, protecting us all. She stands right in front of the gate… and she can just make out the shape of the Void Dragon rushing towards us. I heal Plex, then myself, and I try to disable the anchor, but fail. I take psychic damage and get knocked back. Emilio blasts the Star Spawn Hulk (the purple fucker), and also attempts to disable the anchor, but no luck.
+
+Aviana has a lot of "friends" over there. They're scared of her. I would be, too. Shalkoc punches the Wardu with a **Leaden Fist**; somehow it does not die on the spot. Then he runs off to help Aviana, who very much needs it. Aviana disregards the portal, and rushes to help us instead. Things slap at her on the way, to little effect, until one of them does… radiant damage?! That hurts. She juiced up on a potion of speed, so she reaches us, still holding the Wardu. She reaches into her pack and… throws a bedsheet… "full of Plex stuff" (**[[Plex' Chickens|wooden chicken statues]]**)… across the chasm. The statues come to life and all peck at the anchor with their tiny knife beaks. They destroy the anchor, and a bunch of scuttling Seers appear, along with four Hulks.
+
+Aviana squishes the Wardu for good luck, but it drips disgusting fluids all over her painted nails. With a warning for Plex, she yanks the chain out of the portal… but a force pulls it back. Something beyond the portal is holding the other end of the chain… She says she needs both hands and chucks me the Wardu. As she pulls the chain harder, claws and a snout appear through the portal, hanging onto the chain and trying to drag it back. She is doing a tug-of-war with the Void Dragon. She asks Emilio for advice. He says we're too late, that **the dragon is coming through either way**.
+
+Detaching the chain from the anchor might be our only hope… Aviana hits the anchor, destroying it. The chain fades, and Aviana stumbles then catches herself just in time, very short of crashing into me. (That might have killed me, too.) The portal closes! But the Voidborn remain…
+
+The Wardu Aviana squeezes looks at Plex… menacingly. He's worried about his chickens. Aviana asks Emilio to pick up Plex' chickens. Shalkoc gets ~~yoinked~~ teleported into the middle of the Voidborn. One of the Seers fires an orb onto one of the Hulks… it is healed, and **reverberates** the damage to everyone around it… Fearghas commands his **Bigby's Hand** into the fray and makes it grab Shalkoc with the intention to chuck him towards us. We are trying to get the hell out of here. I use my last sorcery point on a twinned **Guiding Bolt**, bursting one of the Wardus. Emilio is trying to pick up Plex' chickens while Fearghas is yelling at him to leave the chickens.
+
+Emilio… teleports? across the chasm. With a tiny Void portal. The party's trust for him plummets. Plex already laments the loss of his chickens. I argue that he can't have chickens if he is dead. He is unconvinced. Shalkoc kindly casts **Cure Wounds** on me. It's weak sauce but I appreciate the gesture. Shalkoc tries (and fails) to pop the last Wardu. He goes into **Turtle Stance** _just to be safe_. I appreciate this gesture even more because I no longer have the strength to scrape him off the floor. Aviana gives the Wardu a good squeeze, sadly still not enough to pop it. She then jumps over the chasm to go get the chicken statues… The shockwave from her **Thunderfeet** shatters seven of the chickens. Plex might be about to cry.
+
+One of the Seers is catching up to us and blasts Plex with three **Psychic Orbs**. In reaction he activates his **Abjurer's Bangle**, absorbing most of the damage. Another Seer fires at Plex; he crumples to the ground. The next Seer shoots, this time at me. It hits hard, but I keep my footing. I need to help Plex! Fearghas makes an Arcane Gate to the other side of the chasm, and says we are leaving. Plex… I rush to his side and heal him, and hesitate before running through the gate. Plex, Shalkoc, and Emilio are still on the other side…
+
+Out of nowhere, tentacles burst out of the chasm, grab one of the Hulks, and drag it down into the purple smoke. An **unfortunate event**… for him, not for us. Emilio attacks, then runs into the gate. Plex casts **Thunder Step**, teleporting him and Shalkoc across the chasm. Aviana opens the [[Iron Flask]], releasing a horned humanoid (it's a **Leshen**, we all recognise it). Aviana speaks friendly words in Sylvan. The Leshen turns into a flock of crows and comes for us. It casts a **Wall of Thorns**, Fearghas promptly pops a Counterspell gem… it does not work out. Emilio casts Counterspell. To everyone's relief, it works. The Leshen casts **Grasping Vine**, which lashes out at Emilio. He is pulled towards the vine.
+
+Emilio is hit by three Psychic Orbs, and goes down. The Leshen hits me, triggering Plex' **Death Ward**. Fearghas apologises to Shalkoc, as he is out of range of his teleporting spell. "Meet us back in the mines of [[Lessia]]." Shalkoc and Aviana are fast enough to run and meet up with us. They will have to be. We appear in the tunnel overlooking Ukgluz. Fearghas hands me a healing potion, and feeds another one to the unconscious Emilio. Plex is still mute, but he tries his best to communicate.
+
+We sit in the dark tunnel nursing our wounds, waiting for Aviana and Shalkoc… and hoping.
