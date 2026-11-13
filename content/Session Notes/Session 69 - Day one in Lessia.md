@@ -1,6 +1,7 @@
 ---
 type: session
 ---
+[[Naami Jamas|]]
 I meet the heroes at the gate. They are very kind to me, [[Aviana Winterwing|Aviana]] is a lot bigger than I expected! She nearly tramples some of the king's guards by mistake. Apparently this is temporary; [[Fearghas MacAllistar|Fearghas]] gave her a lot of non-soup potion?
 
 The undead army threatening **[[Lessia]]** was scattered, so the king is preparing to throw a big party. There will probably not be any lemoncakes, but I still want to go.

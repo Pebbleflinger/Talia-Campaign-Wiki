@@ -1,6 +1,7 @@
 ---
 type: session
 ---
+[[Naami Jamas|]]
 After being accused by the [[King Gandogar|king of Lessia]] of controlling the undead army, Fearghas refuses to put up with any more of that nonsense, and teleports us all to their flying island, **[[Promise]]**. Wait… me too? What about **[[Linzi the bard|Linzi]]**? We can't leave her behind!
 
 As we materialise, there is a sound of metal falling, and **[[Plex]]** appears, trying to carry three full sets of plate armour, and failing. He takes a tumble and has a grumble about carrying all this. (Thank you Domi for the pipes falling sound, peak immersion.) [[Aviana Winterwing|Aviana]] offers ME Linzi's job, but I decline saying we must go back for my Halfling friend. Plex claims he traded the dead body that was inside one of the suits of plate armour while he was in the **[[Feywild]]**. [[Fearghas MacAllistar|Fearghas]] and Aviana are trying very hard to get him to say what he got in exchange for the body.

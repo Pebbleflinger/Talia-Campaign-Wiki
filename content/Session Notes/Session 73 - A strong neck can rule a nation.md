@@ -1,6 +1,7 @@
 ---
 type: session
 ---
+[[Naami Jamas|]]
 [[Aviana Winterwing|Aviana]] and [[Shalkoc Zornaxc|Shalkoc]] escape arrest by the [[Duergar]] by… Shalkoc flying up, with Aviana inside the [[Iron Flask]]. They leave the Duergar to deal with the **Leshen**, and Shalkoc flies up to the tunnel where we had been huddling for about three hours. We've had a short rest, and [[Plex]] is no longer mute. Shalkoc releases Aviana from the flask; she is grimacing with a terrible headache, and is in a vile mood. After a few words from Plex, she again grabs his neck, and both of them disappear. [[Fearghas MacAllistar|Fearghas]] attempts to explain the process to [[Emilio Astray|Emilio]], he does not seem very enlightened.
 
 Shalkoc is very out of breath from flying all this way, so Fearghas casts **Leomund's Tiny Hut** as a ritual, conjures up **Unseen Servants**, and we set up camp in the tunnel. The [[Bag of Scolding]] grills Fearghas, we take a long rest. Shalkoc cooks up an impressive amount of bacon, egg, and sausage, helping everyone feel alive again.

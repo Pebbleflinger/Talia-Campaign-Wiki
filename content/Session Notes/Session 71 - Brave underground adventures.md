@@ -1,6 +1,7 @@
 ---
 type: session
 ---
+[[Naami Jamas|]]
 As we camp outside of **[[Ukgluz]]** and [[Shalkoc Zornaxc|Shalkoc]] wraps up rice balls, [[Fearghas MacAllistar|Fearghas]] contacts his father with spellgems of **Sending**. As he opens his bag, the thing blurts out "You're the loveliest hag in the coven." His father is alright, though imprisoned, and Fearghas tells him he is trying to find a solution. Family love.
 
 [[Plex]] and [[Aviana Winterwing|Aviana]] argue, grapple with each other, and both disappear. Fearghas sighs heavily, "we do not have time for that". Indeed we do not, but Plex teleporting another person is a new thing. Fearghas asks about my [[Spellward|wards]], I do my best to give an explanation, but leave out exactly how crippled I am without them. It's not a matter of trust, really… call it an expression of hope. We exchange quick information about our respective abilities. I cast **Augury** to consult the omens on our looking for the Matron, the results come up mixed; weal and woe. Well that is ominous.
