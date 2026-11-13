@@ -2,7 +2,7 @@
 type: article
 aliases:
 ---
-A powerful garment worn and treasured by [[Emilio Astray|Emilio]]. It was stolen from [[Filrae Vandree]] by [[Lyrielle]], and modified with cat ears on the hood.
+A powerful garment worn and treasured by [[Emilio Astray|Emilio]]. It was stolen from [[Filrae Vandree]] by [[Lyrielle]], and modified with cat ears on the hood. It allows him, among others, to enter the [[Astral Sea|Astral Plane]].
 
 ---
 
