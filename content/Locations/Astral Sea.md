@@ -7,7 +7,7 @@ An ocean of aether, in which all other known planes are suspended. It is a vast 
 
 [[Filrae Vandree]] is known to have an outpost in the Astral Sea.
 
-[[Emilio Astray|Emilio]] occasionally visits the Astral Sea through the use of his [[Robe of Stars]], though sometimes also in his sleep.
+[[Emilio Astray|Emilio]] occasionally visits the Astral Sea through the use of his [[Emilio Astray#Robe of Stars|Robe of Stars]], though sometimes also in his sleep.
 
 ---
 

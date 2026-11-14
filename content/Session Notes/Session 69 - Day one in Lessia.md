@@ -20,7 +20,7 @@ As Mordram said quite clearly that Fearghas smells (he indeed does), **[[Linzi t
 
 We all go to the lake. Shalkoc jumps into the cold water, Aviana opens a bottle, and Fearghas begins to scream. Shalkoc then gets out of the water, in a sense, and walks on it to the shore. Aviana says this is how he swims. Fearghas admits he doesn't know how the big lizard is doing it.
 
-It turns out, Aviana freed an invisible **Haunt** and we are all flailing trying to catch it. I use my wand to cast **Detect Magic**, it does not help at all. We eventually have to give up and accept it flied away. Fearghas has a lot of words with Aviana, none of them friendly.
+It turns out, Aviana freed an invisible **Haunt** from the [[Aviana Winterwing#Iron Flask|Iron Flask]] and we are all flailing trying to catch it. I use my wand to cast **Detect Magic**, it does not help at all. We eventually have to give up and accept it flied away. Fearghas has a lot of words with Aviana, none of them friendly.
 
 Shalkoc picks up a skeletal finger and begins to wave it around. I can sense necromantic energy in it; he casts **False Life** on himself and is very pleased with it. Linzi is happily taking notes, claiming this book will sell like crazy. I can see it. I can feel Fearghas' nerve weakening.
 
