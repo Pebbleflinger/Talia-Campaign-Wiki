@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Dragon
 ---
 The [[Dragon Aspect]] of Might, Dahak the Black.
 

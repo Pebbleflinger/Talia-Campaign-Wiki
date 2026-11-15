@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Fey
 ---
 The ruler of the [[Feywild]] and twin of the [[Raven Queen]]. Titania is currently missing and is presumed captured by [[Gyronna]]'s daughters.
 

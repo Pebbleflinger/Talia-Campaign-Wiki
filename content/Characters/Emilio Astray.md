@@ -4,6 +4,10 @@ aliases:
   - Emilio
   - warlock
   - Void boy
+tags:
+  - Human
+  - Void
+  - PlayerCharacter
 ---
 A [[Human]] warlock changed by spending twelve years in the [[Void]], who takes on a monstrous form to fight with his claws.
 

@@ -1,6 +1,9 @@
 ---
 type: article
 aliases:
+tags:
+  - vampire
+  - Changeling
 ---
 A Strazhi noblewoman and a [[Changeling]]. She is the twin sister of [[Anabella]].
 

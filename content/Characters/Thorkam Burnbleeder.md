@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Duergar
 ---
 A [[Duergar]] with whom [[Naami Jamas|Naami]] worked at the hospital in [[Ukgluz]].
 

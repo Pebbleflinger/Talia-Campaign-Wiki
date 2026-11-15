@@ -1,6 +1,9 @@
 ---
 type: article
 aliases:
+tags:
+  - Dragon
+  - deity
 ---
 
 

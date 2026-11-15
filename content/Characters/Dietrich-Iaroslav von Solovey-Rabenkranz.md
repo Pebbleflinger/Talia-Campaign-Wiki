@@ -3,6 +3,9 @@ type: article
 aliases:
   - Count Dietrich
   - Count
+tags:
+  - vampire
+  - Strazhland
 ---
 The count of [[Solgorod]] in the Grand Duchy of Morovya. Dietrich was turned into a vampire by [[Magdalena Sofiya von Ustevya-Rabenkranz|Magdalena]]. 
 

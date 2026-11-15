@@ -1,6 +1,9 @@
 ---
 type: article
 aliases:
+tags:
+  - Drow
+  - Elf
 ---
 [[Emilio Astray|Emilio]]'s adoptive mother, she is half-Elf and half-[[Drow]].
 

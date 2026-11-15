@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Dwarf
 ---
 A [[Dwarf]] of [[Lessia]] who accepted to work for [[Fearghas MacAllistar|Fearghas]].
 

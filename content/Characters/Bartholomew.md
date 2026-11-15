@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Human
 ---
 A Taldorian sailor, former quartermaster of [[Gregry 'Ol' Fisheye' Porter|Gregry]]'s ship. He met [[Emilio Astray|Emilio]] by chance in [[Taldor Augusta]] and ran away from him, having recognised something in the warlock's eyes.
 

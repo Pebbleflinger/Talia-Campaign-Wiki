@@ -1,12 +1,16 @@
 ---
 type: article
 aliases:
+tags:
+  - Goblin
+  - PlayerCharacter
+  - Fey
 ---
-An elderly [[Goblin]] who is the shaman of his tribe. Plex can control gravity and time, but his true potential lies in his utterly unpredictable creativity.
+An elderly [[Goblin]] who is the shaman of his tribe. Plex can control gravity and time, but his true potential lies in his utterly unpredictable creativity. Unlike the rest of the party, Plex' plane of origin is the [[Feywild]].
 
 ## The Void Dragon
 
-
+A dragon existing in the [[Void]], glimpsed by the party through the portal in the [[tower in Jotunheim]]. For reasons nobody understands, Plex adamantly believes this Void Dragon is his friend.
 
 ## Babbling Book of the Befuddled Braniac
 

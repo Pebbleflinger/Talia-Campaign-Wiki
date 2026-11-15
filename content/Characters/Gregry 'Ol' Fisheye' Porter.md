@@ -2,6 +2,8 @@
 type: article
 aliases:
   - Gregry
+tags:
+  - Human
 ---
 A former privateer turned drunkard when his crew mutinied and stole his ship, leaving him stranded on an island. Gregry earnt the affections of the Siren sisters [[Araphia]] and [[Aradeia]] and they helped him return to shore (by tasking a giant crab to carry him).
 

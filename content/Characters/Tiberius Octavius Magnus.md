@@ -5,6 +5,8 @@ aliases:
   - Taldorian emperor
   - emperor
   - Emperor
+tags:
+  - Human
 ---
 The ruler of [[Taldor]], he lives in the Imperial Palace in [[Taldor Augusta]].
 

@@ -2,6 +2,11 @@
 type: article
 aliases:
   - White Thirst
+tags:
+  - vampire
+  - Changeling
+  - Shadowfell
+  - CrimsonCircle
 ---
 A Strazhi noblewoman who is involved in [[Lady Aladriss]]' court in the [[Shadowfell]]. She is a [[Changeling]] and the White Thirst of the [[Crimson Circle]]. She has a twin sister called [[Isabella]] and they do nothing to prevent people from confusing one for the other.
 

@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Dwarf
 ---
 The captain of the honour guard of [[Lessia]].
 

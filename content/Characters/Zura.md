@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Abyss
 ---
 A demon lord, also known as The Vampire Queen. Her domain Nesh is located in the [[Abyss]].
 

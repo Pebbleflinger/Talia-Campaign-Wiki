@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Devil
 ---
 The Archduchess of [[Avernus]], she is a fallen angel who is missing a hand.
 

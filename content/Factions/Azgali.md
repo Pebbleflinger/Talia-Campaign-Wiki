@@ -1,8 +1,10 @@
 ---
 type: article
 aliases:
+tags:
+  - faction
 ---
-Followers of [[Azgal, the Ebon Fire|Azgal]].
+Followers of [[Azgal|Azgal]].
 
 ---
 

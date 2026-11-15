@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Jotunheim
 ---
 The cunning king of the Frost Giants. He rules over his realm of [[Jotunheim]].
 

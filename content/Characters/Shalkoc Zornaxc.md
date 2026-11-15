@@ -2,6 +2,9 @@
 type: article
 aliases:
   - Shalkoc
+tags:
+  - PlayerCharacter
+  - Dragonborn
 ---
 A [[Dragonborn]] monk who is, to his great despair, green and no longer black. The K is silent. Shalkoc can drink anyone under the table on account of being immune to poison.
 

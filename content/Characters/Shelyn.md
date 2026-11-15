@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - deity
 ---
 Also known as The Eternal Rose, Syriss, of Song of the Prism, Shelyn is a goddess of beauty and a patron of the arts. Her realm Blossomheart is located in [[Nirvana]].
 

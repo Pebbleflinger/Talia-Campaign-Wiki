@@ -2,6 +2,10 @@
 type: article
 aliases:
   - Aviana
+tags:
+  - PlayerCharacter
+  - Harpy
+  - Promise
 ---
 A tall and muscular [[Harpy]] woman who receives the blessings of animal spirits and harnesses her rage to become formidable in battle.
 

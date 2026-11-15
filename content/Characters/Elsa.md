@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Hag
 ---
 A very powerful Hag, daughter to [[Gyronna]]. Elsa cursed Plex' tribe, causing them to teleport unpredictably.
 

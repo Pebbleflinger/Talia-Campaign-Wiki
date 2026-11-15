@@ -2,6 +2,10 @@
 type: article
 aliases:
   - Naami
+tags:
+  - PlayerCharacter
+  - Halfling
+  - Ildilas
 ---
 A [[Halfling]] from the remote island of [[Ildilas]]. She excels in healing magic, but limits her own potential by wearing two bracelets known as [[Spellward|spellwards]].
 

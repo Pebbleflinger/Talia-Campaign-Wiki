@@ -2,6 +2,8 @@
 type: article
 aliases:
   - Linzi
+tags:
+  - Halfling
 ---
 A lively and friendly [[Halfling]] whom the party met in [[Lessia]]. After the city was locked down, Linzi escaped into the mines with [[Barrik]], where [[Fearghas MacAllistar|Fearghas]] found them and teleported them to [[Promise]].
 

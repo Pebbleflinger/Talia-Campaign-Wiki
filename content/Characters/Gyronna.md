@@ -2,6 +2,10 @@
 type: article
 aliases:
   - Hag Mother
+tags:
+  - Hag
+  - deity
+  - Abyss
 ---
 The Mother of Hags, also known as The One-Eyed, The Angry Hag, or the Hag Queen. Gyronna was once mortal, and ascended to godhood after being tormented by men. As a result, Gyronna and her followers despise all males, and speaking the Hag Mother's name in the presence of men will draw her ire.
 

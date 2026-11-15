@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Dwarf
 ---
 [[Fearghas MacAllistar|Fearghas]]'s mother, she is a herbalist from [[Lessia]].
 

@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Siren
 ---
 A Siren, sister to [[Aradeia]]. She lives in the Galleon's Graveyard and waits rather impatiently for her love [[Gregry 'Ol' Fisheye' Porter|Gregry]] to come see her.
 

@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Devil
 ---
 
 

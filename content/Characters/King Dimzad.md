@@ -2,6 +2,8 @@
 type: article
 aliases:
   - Dimzad
+tags:
+  - Duergar
 ---
 The ruler of [[Ukgluz]]. He is a massive [[Duergar]] wearing an equally massive hat.
 

@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Dwarf
 ---
 [[Fearghas MacAllistar|Fearghas]]'s father, he is an alchemist from [[Lessia]].
 

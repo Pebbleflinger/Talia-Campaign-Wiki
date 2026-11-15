@@ -1,6 +1,9 @@
 ---
 type: article
 aliases:
+tags:
+  - Drow
+  - faction
 ---
 A [[Drow]] house specialised in assassinations. Their contracts are very expensive. House Vandree is currently led by Matron [[Minae Vandree]].
 

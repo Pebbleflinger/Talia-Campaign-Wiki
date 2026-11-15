@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Goblin
 ---
 A [[Goblin]] from [[Plex]]'s village. Prantx is a blacksmith, and a curse magically binds him to his brother [[Antx]].
 

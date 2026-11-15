@@ -1,6 +1,9 @@
 ---
 type: article
 aliases:
+tags:
+  - Halfling
+  - Ildilas
 ---
 An elderly [[Halfling]] who emigrated from [[Ildilas]] and now lives in [[Taldor Augusta]] with her son, [[Basim]].
 

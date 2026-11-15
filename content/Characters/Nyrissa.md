@@ -1,6 +1,9 @@
 ---
 type: article
 aliases:
+tags:
+  - Elf
+  - Shadowfell
 ---
 A [[Shadar-Kai]] scout. The party met her as she was investigating [[Muravelara]].
 

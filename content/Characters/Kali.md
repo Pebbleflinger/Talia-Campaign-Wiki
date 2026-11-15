@@ -2,6 +2,8 @@
 type: article
 aliases:
   - Kali Savaris
+tags:
+  - Drow
 ---
 A Drow assassin who got stuck halfway through shapeshifting into a spider. She cannot speak Common but can be understood via the Speak with Animals spell, as she frequently speaks with spiders. She also knows the Druidic language.
 

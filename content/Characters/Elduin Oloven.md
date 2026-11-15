@@ -2,6 +2,8 @@
 type: article
 aliases:
   - Elduin
+tags:
+  - Elf
 ---
 A High Elven Ambassador from [[Aethel'eren]].
 

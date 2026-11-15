@@ -28,7 +28,7 @@ Fearghas tries to get Shalkoc to ask better questions, especially from the assas
 
 S: Where?
 
-Dead: The shrine of **[[Azgal, the Ebon Fire|Azgal]]**.
+Dead: The shrine of **[[Azgal|Azgal]]**.
 
 S: How to get there?
 

@@ -1,6 +1,9 @@
 ---
 type: article
 aliases:
+tags:
+  - Halfling
+  - Ildilas
 ---
 A [[Halfling]] who is [[Naami Jamas|Naami]]'s mother. She is Ildic and married to [[Sael]]. A herbalist and physician by trade, Amari chose not to undergo the witch trials and she permanently wears [[Spellward|spellwards]]. She has the aptitude for magic but has not trained in it, and she can at most cast a 1st-level spell.
 

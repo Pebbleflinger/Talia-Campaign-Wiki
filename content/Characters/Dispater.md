@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Devil
 ---
 The Archdevil who rules [[Dis]], the second layer of [[Hell]], from his Iron Tower. His paranoia manifests in his constant surveillance of the entire city.
 

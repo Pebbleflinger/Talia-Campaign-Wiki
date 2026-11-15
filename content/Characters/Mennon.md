@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Fey
 ---
 An Archfey of the [[Feywild]], he is the Unseelie Fey Lord. Also [[Plex]]'s boss. He was hunting dragons and placed a mark on [[Shalkoc Zornaxc|Shalkoc]]'s soul.
 

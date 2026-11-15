@@ -8,7 +8,7 @@ Duergar armed with glaives guard the walls, but the city is also defended by sta
 
 ## Sceptre of Azgal
 
-A mysterious item that was stolen by [[House Vandree]] from the shrine to [[Azgal, the Ebon Fire|Azgal]] in Nonus 1497.
+A mysterious item that was stolen by [[House Vandree]] from the shrine to [[Azgal|Azgal]] in Nonus 1497.
 
 ---
 

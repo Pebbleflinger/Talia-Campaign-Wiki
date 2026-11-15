@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - deity
 ---
 Also known as *The Dawnflower*, *The Cleansing Light*, and *The Healing Flame*, Sarenrae is a goddess of healing. Her domain Everlight is located in [[Nirvana]].
 

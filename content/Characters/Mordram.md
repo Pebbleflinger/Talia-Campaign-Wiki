@@ -2,6 +2,8 @@
 type: article
 aliases:
   - advisor
+tags:
+  - Dwarf
 ---
 [[King Gandogar]]'s advisor, until he was branded a traitor some time between Nonus and Duodecimus 1497.
 

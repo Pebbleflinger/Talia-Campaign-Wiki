@@ -2,6 +2,9 @@
 type: article
 aliases:
   - Magdalena
+tags:
+  - vampire
+  - Strazhland
 ---
 The Grand Duchess of [[Grand Duchy of Morovya|Morovya]]. She rose to power in recent years, in great part thanks to the magic she learnt from [[Vrazzak]]. Her castle is in [[Krovozamok]]. She is the one who turned [[Dietrich-Iaroslav von Solovey-Rabenkranz|Count Dietrich]] into a vampire.
 

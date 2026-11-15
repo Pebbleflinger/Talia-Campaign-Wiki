@@ -1,6 +1,9 @@
 ---
 type: article
 aliases:
+tags:
+  - vampire
+  - faction
 ---
 A cult of vampires who worship [[Zura]].
 

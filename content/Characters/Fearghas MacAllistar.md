@@ -2,6 +2,9 @@
 type: article
 aliases:
   - Fearghas
+tags:
+  - PlayerCharacter
+  - Dwarf
 ---
 A [[Dwarf]] of [[Lessia]] extremely accomplished in magic. Also an alchemist by trade, Fearghas is one of the leaders of [[Promise]].
 

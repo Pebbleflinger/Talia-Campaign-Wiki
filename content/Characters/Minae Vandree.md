@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Drow
 ---
 The twin sister of [[Minae Vandree]]. She a [[Drow]] is at the head of House Vandree, and has a scar over her left eye.
 

@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Jotunheim
 ---
 A character only mentioned in the [[Tower in Jotunheim#Note to future self|Note to future self]]. Clearly a woman of great arcane power (and even greater scatterbrainedness), Linzi was the owner of the [[Tower in Jotunheim]], but she appears to be missing.
 
