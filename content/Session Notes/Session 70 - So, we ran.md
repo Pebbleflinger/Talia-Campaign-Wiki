@@ -38,7 +38,7 @@ I am woken by a completely exhausted Fearghas and many dwarves; he offers a room
 
 I confess to the party that I am a spy for the **[[Drow]]**. Fearghas is angry, but he believes me and understands that I had no choice. I try to explain exactly how strong the [[Filrae Vandree|Lady Vandree]] is, but I am no scholar, and can only relate what I've seen. Aviana suggests making friends, or fighting! Are they taking this seriously? When the matron comes for me on Friday, our lives will be on the line.
 
-Fearghas proceeds to ~~google my boss~~ cast **Legend Lore** on the Matron of House Vandree. The spell only brings isolated words; exile, revenge, ambition. He then directs the spell to the **[[Dahak's Left Eye|Left Eye of Dahak]]**; it is as expected an artifact of immense power.
+Fearghas proceeds to ~~google my boss~~ cast **Legend Lore** on the Matron of House Vandree. The spell only brings isolated words; exile, revenge, ambition. He then directs the spell to the **[[Dahak#Dahak's Left Eye|Left Eye of Dahak]]**; it is as expected an artifact of immense power.
 
 We decide to go down to **Ukgluz**, and try to prepare for a confrontation with the Drow matron. Fearghas gives me a spellgem of **Nondetection** to shield myself from the matron's scrying spells (I assume that is what she is using to find me), and he places in his breast pocket one spellgem of **Revivify**, and a diamond that can be used to cast **Raise Dead**, in case one of us dies. Sadly he does not have a black sapphire, so I remain unable to summon my Umbral Spirit.
 

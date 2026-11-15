@@ -42,6 +42,6 @@ Aviana tackles the dragon and drags it underwater, but it still beams its necrot
 
 We defeat the Skull Lord, and the **Black Deathdragon**, by shooting Shalkoc and having him deflect the missiles onto the dragon. Aviana emerges grumbling about poke-eyyyy-mons, and chucks the corpse of the dragon onto the shore so that Fearghas can start chopping it up.
 
-Aviana carries the corpse of the dragon into Lessia, which is swarming with guards looking for Drow. The king's honour guard is blocking the entrance to the throne room. As we approach, the king leaps out and accuses Fearghas of being in league with the Drow, and having stolen the **[[Dahak's Left Eye|left eye of Dahak]]**! Not just that, but also to have lead the undead army against Lessia!
+Aviana carries the corpse of the dragon into Lessia, which is swarming with guards looking for Drow. The king's honour guard is blocking the entrance to the throne room. As we approach, the king leaps out and accuses Fearghas of being in league with the Drow, and having stolen the **[[Dahak#Dahak's Left Eye|left eye of Dahak]]**! Not just that, but also to have lead the undead army against Lessia!
 
 We tried to reason with the king. We tried everything. He is having none of it, and our only option was to be stripped naked and cast into prison to face "justice"… or resist. Fearghas put an end to the pointless argument, told his king he was ashamed of how low he had sunk, and teleported us all out of the throne room. We arrive in **the Locus on Promise**.

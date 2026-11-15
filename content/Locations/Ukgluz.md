@@ -4,7 +4,11 @@ aliases:
 ---
 A [[Duergar]] settlement close to and below [[Lessia]]. Ukgluz is an industrial place, built of rough black stone. The smoke of furnaces darkens the air of the cavern it stands in. Slavery is commonplace in the city.
 
-Duergar armed with glaives guard the walls, but the city is also defended by statues which come to life when threats arise. The creation and operation of these status is mysterious, but the name Demon Engines gives some insight into their origin...
+Duergar armed with glaives guard the walls, but the city is also defended by statues which come to life when threats arise. The creation and operation of these status is mysterious, but the name "Demon engines" gives some insight into their origin...
+
+## Sceptre of Azgal
+
+A mysterious item that was stolen by [[House Vandree]] from the shrine to [[Azgal, the Ebon Fire|Azgal]] in Nonus 1497.
 
 ---
 

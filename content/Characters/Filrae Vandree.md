@@ -7,7 +7,7 @@ aliases:
   - Matron
   - Drow Matron
 ---
-A [[Drow]] matron who was pronounced dead and exiled from Drow society. She stole [[Dahak's Left Eye]] from [[Lessia]]. She is a powerful spellcaster, able to cast the 9th-level Gate spell and travel between planes. She is known to stay in a castle in the [[Astral Sea]].
+A [[Drow]] matron who was pronounced dead and exiled from Drow society. She stole [[Dahak#Dahak's Left Eye|Dahak's Left Eye]] from [[Lessia]]. She is a powerful spellcaster, able to cast the 9th-level Gate spell and travel between planes. She is known to stay in a castle in the [[Astral Sea]].
 
 Formerly the boss of [[Naami Jamas|Naami]] and [[Kyrin Niteshade|Kyrin]].
 

@@ -1,6 +1,7 @@
 ---
 type: article
 aliases:
+  - Dragon Aspects
 ---
 Ten ancient dragons born of [[Tiamat]] and [[Bahamut]]. They are born of the [[Material Plane]] and bound to it so that they cannot travel to another plane. Their power resides in their eyes, with the right eye housing the force of good and the left eye housing the force of evil.
 
