@@ -11,7 +11,7 @@ A tall and muscular [[Harpy]] woman who receives the blessings of animal spirits
 
 ## Key to the World
 
-One of the greatest parts of Aviana's legends is that she broke the Key to the World, a mysterious crystal which kept the [[Dragon Aspect|Dragon Aspects]] (and all other dragons) imprisoned. 
+One of the greatest parts of Aviana's legend is that she broke the Key to the World, a mysterious crystal which kept the [[Dragon Aspect|Dragon Aspects]] (and all other dragons) imprisoned. 
 
 ## Iron Flask
 

@@ -60,7 +60,7 @@ The king does not believe that Fearghas and his group could deal with the Matron
 
 We discuss the void portal. Fearghas assumes it connects to the Far Realm, and reveals that Plex:
 
-- "acquired" a [[Plex' Demilich|Demilich]]
+- "acquired" a [[Plex#Plex' Demilich|Demilich]]
     
 - found a void portal and started to communicate with it
     
