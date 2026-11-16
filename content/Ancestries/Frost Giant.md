@@ -2,6 +2,8 @@
 type: article
 aliases:
   - Frost Giants
+tags:
+  - ancestry
 ---
 A race of towering humanoids who love cold weather, arena fights, and ale. After the party made an ally of their king [[Utgard-Loki]], the Frost Giants have established a trade outpost on [[Promise]]. They travel on longships by ways of portals to [[Jotunheim]].
 

@@ -2,6 +2,8 @@
 type: article
 aliases:
   - High Elves
+tags:
+  - ancestry
 ---
 A race of Elves native to the island of [[Aethel'eren]]. As a very long-lived race, they consider themselves superior to most others. They are very accomplished in abjuration magic and know the art of making [[Spellgem|spellgems]].
 

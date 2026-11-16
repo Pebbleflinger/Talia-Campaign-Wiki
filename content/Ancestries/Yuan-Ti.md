@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - ancestry
 ---
 A monstrous race bearing the qualities of snakes. They are usually resistant or immune to poison, and their bodies can take many shapes.
 

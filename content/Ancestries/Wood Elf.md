@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - ancestry
 ---
 A race of Elves who live in forests, they excel at stealth and survival in the wild.
 

@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - ancestry
 ---
 A highly adaptable race. Though short-lived in comparison with Elves or Dwarves, humans often surprise the long-lived races.
 

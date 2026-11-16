@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - ancestry
 ---
 A race of short, green-skinned humanoids. They tend to be ingenious but mischievous, and though their life expectancy is somewhere around 50 to 60 years of age, they rarely live that long due to risky experiments and fearless curiosity.
 

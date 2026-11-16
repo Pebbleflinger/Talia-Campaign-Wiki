@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - ancestry
 ---
 A race of smaller humanoids. Though they lack the sturdiness of Dwarves, Halflings tend to be light of foot and favoured by luck.
 

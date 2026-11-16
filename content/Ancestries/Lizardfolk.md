@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - ancestry
 ---
 An monstrous race of lizard-like humanoids. Alongside the [[Yuan-Ti]], they were the predominant races in the now-fallen [[Saurian Empire]].
 

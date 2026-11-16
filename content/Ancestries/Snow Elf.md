@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - ancestry
 ---
 A race of Elves native to [[Strazhland]], they are believed to be extinct after the events of The Forgotten War.
 

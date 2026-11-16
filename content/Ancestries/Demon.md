@@ -3,6 +3,8 @@ type: article
 aliases:
   - demons
   - abyssal
+tags:
+  - ancestry
 ---
 Denizens of the [[Abyss]]. Demons are pure chaotic evil, and act only in their own interest. They are unpredictable, and while some are beastly and mindless, others are stealthy and cunning.
 

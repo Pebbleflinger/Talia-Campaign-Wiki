@@ -2,6 +2,8 @@
 type: article
 aliases:
   - Redcaps
+tags:
+  - ancestry
 ---
 A race of small, permanently furious creatures from the [[Feywild]]. Their heads are topped with blood-red conical caps.
 

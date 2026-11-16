@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - ancestry
 ---
 A race of humanoids with clear ties to draconic kin. Their bodies are covered in scales, and they can unleash a dragon breath tracing back to their chromatic or metallic heritage.
 

@@ -4,6 +4,8 @@ aliases:
   - angel
   - celestials
   - angels
+tags:
+  - ancestry
 ---
 Denizens of the Upper Planes such as [[Heaven]] and [[Nirvana]]. Angels are beautiful winged humanoids shining with inner light. They are inherently good and can often reassure or heal mortals.
 

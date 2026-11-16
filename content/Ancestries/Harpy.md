@@ -2,6 +2,8 @@
 type: article
 aliases:
   - Harpies
+tags:
+  - ancestry
 ---
 A race of monstrous, winged humanoids. Harpies look like winged women and are known to be vicious killers. They can sing to charm their prey, and target mostly men.
 

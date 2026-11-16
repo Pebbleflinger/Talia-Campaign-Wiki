@@ -2,6 +2,8 @@
 type: article
 aliases:
   - devils
+tags:
+  - ancestry
 ---
 The denizens of [[Hell]]. Devils tend to have leathery wings, horns, and a tail. More than physical details, what defines devils is their strict lawful evil alignment. They are shaped by a rigid hierarchy and cruel institutions, and will offer contracts which seem profitable but have loopholes that only benefit the devil.
 

@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - ancestry
 ---
 A monstrous race of sea-dwelling shapeshifters. Deepfolk are created from drowned humanoids. Their true form is the one they had when they died, which makes them very effective at infiltrating cities.
 
