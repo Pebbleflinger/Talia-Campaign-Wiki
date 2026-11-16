@@ -2,6 +2,9 @@
 type: article
 aliases:
   - Astral Plane
+tags:
+  - location
+  - plane
 ---
 An ocean of aether, in which all other known planes are suspended. It is a vast expanse of swirling clouds, without natural gravity. While much of the Astral Sea is empty, it is home to the Githyanki and Githzerai races.
 

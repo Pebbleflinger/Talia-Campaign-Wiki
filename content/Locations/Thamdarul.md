@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - location
 ---
 A mausoleum outside [[Lessia]] housing the graves of Dwarven heroes. Under the orders of [[Vrazzak]], the general [[Drakar Zul]] launched an attack on Lessia and was defeated by the party in Thamdarul.
 

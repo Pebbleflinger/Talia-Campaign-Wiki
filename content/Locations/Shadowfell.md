@@ -3,10 +3,21 @@ type: article
 aliases:
   - Plane of Shadow
   - Shadow Plane
+tags:
+  - location
+  - plane
 ---
 The dark reflection of the [[Material Plane]], it is a place heavily influenced by negative energy. The Shadowfell is dark and gloomy, and colours are muted to shades of grey. Visitors to the Shadowfell tend to feel oppressed, empty, and depressed. Experiencing any strong emotion while in the Shadow Plane results in exhaustion as negative energy hollows the soul.
 
 The Shadowfell is ruled by the [[Shadar-Kai]] who serve the [[Raven Queen]]. The current leader is [[Lady Aladriss]]. She resides in the Onyx Citadel by the town of Gloomwrought.
+
+## Shadow Gate
+
+A portal to the Shadowfell.
+
+## Gloomwrought
+
+A seaside town in the Shadowfell, close to the Onyx Citadel. Gloomwrought sees a lot of trade, including transactions that would be viewed as unethical or straight-up outlawed elsewhere.
 
 ---
 

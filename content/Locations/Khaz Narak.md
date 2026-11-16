@@ -1,8 +1,10 @@
 ---
 type: article
 aliases:
+tags:
+  - location
 ---
-An ancient Dwarven hold in the [[Mountains of Mourning]]. For millennia, Khaz Narak lay forgotten and buried beneath the castle of [[Krovozamok]] in [[Strazhland]].
+An ancient Dwarven hold in the [[Mountains of Mourning]]. For millennia, Khaz Narak lay forgotten and buried beneath the castle of Krovozamok in [[Strazhland]].
 
 In Duodecimus 1497, the party entered into Khaz Narak which had been appropriated by [[Vrazzak]], and stole [[Dahak#Dahak's Right Eye|Dahak's Right Eye]].
 

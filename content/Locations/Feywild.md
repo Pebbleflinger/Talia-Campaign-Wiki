@@ -1,6 +1,10 @@
 ---
 type: article
 aliases:
+tags:
+  - location
+  - plane
+  - Fey
 ---
 The bright reflection of the [[Material Plane]], it is awash with life, emotion, and colour. It is widely believed that dreams originate from the Feywild. [[Plex]] comes from the Feywild.
 

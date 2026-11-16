@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - location
 ---
 A desert south of the [[Ashur Plateau]] and [[Quadira]]. The Redwind Sands were once a lush valley home to the [[Yuan-Ti]]. Legends tell of massive building wrought by magic, and of priests capable of transferring a curse from an object to a person. There is an ancient temple to [[Nethys]] in the Redwind Sands.
 

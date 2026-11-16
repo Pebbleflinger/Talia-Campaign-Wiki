@@ -4,7 +4,7 @@ aliases:
 tags:
   - Devil
 ---
-The Archduchess of [[Avernus]], she is a fallen angel who is missing a hand.
+The Archduchess of [[Hell#Avernus|Avernus]], she is a fallen angel who is missing a hand.
 
 ---
 

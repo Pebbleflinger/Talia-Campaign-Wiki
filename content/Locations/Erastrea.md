@@ -2,6 +2,8 @@
 type: article
 aliases:
   - Old World
+tags:
+  - location
 ---
 A continent home to many countries and factions. Magic is feared and outlawed in most places.
 

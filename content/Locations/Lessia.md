@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - location
 ---
 Lessia (not Moria) is a Dwarven hold in the [[Silver Peak Mountains]]. It is home to [[Fearghas MacAllistar|Fearghas]] and his parents [[Dulum]] and [[Ysolde]].
 

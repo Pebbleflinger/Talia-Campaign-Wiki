@@ -15,6 +15,10 @@ A [[Halfling]] from the remote island of [[Ildilas]]. She excels in healing magi
 
 A small carving of a dog. Upon saying the command word "ambulance", the figurine turns into a black mastiff. Naami occasionally rides on the dog's back and affectionately calls him Dwen the Ambulance Dog or Dwen the Rock.
 
+## Fade
+
+Naami's Umbral Spirit, a shadowy panther brought into being by a spell and a black sapphire. Fade does not speak, but she understands the languages Naami speaks.
+
 ---
 
 > [!NOTE]- Mentioned in Sessions

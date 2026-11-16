@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - location
 ---
 A seaside town in the [[Talia|New World]].
 

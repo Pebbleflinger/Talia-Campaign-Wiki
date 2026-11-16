@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - location
 ---
 An island off the coast of [[Quadira]], south of [[Taldor]]. Ildilas is frequently considered to be part of Quadira, though the Ildic don't share the sentiment. [[Naami Jamas|Naami]] is from Ildilas.
 

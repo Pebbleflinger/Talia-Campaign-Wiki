@@ -5,7 +5,7 @@ tags:
   - Halfling
   - Ildilas
 ---
-An elderly [[Halfling]] who emigrated from [[Ildilas]] and now lives in [[Taldor Augusta]] with her son, [[Basim]].
+An elderly [[Halfling]] who emigrated from [[Ildilas]] and now lives in [[Taldor#Taldor Augusta|Taldor Augusta]] with her son, [[Basim]].
 
 In Primus 1498, Basim invited [[Naami Jamas|Naami]] to Inas' house and they had a long conversation (and many snacks) about Ildic history and legends.
 

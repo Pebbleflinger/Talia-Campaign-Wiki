@@ -1,6 +1,9 @@
 ---
 type: article
 aliases:
+tags:
+  - location
+  - plane
 ---
 The realm of [[Utgard-Loki]]. It is home to the [[Frost Giant|Frost Giants]] and exists within [[Limbo]].
 

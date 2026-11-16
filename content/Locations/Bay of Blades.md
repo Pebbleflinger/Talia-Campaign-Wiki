@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - location
 ---
 A wide bay separating [[Taldor]] and [[Quadira]] and leading out to [[The Great Expanse]].
 

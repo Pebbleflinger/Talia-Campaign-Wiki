@@ -4,7 +4,7 @@ aliases:
 tags:
   - ancestry
 ---
-A race of shapeshifters. Changelings are rare and tend to live among other races. The only known community of Changelings lives on the [[Mistborne Isles]] and serves the [[Raven Queen]] by protecting a [[Shadow Gate]].
+A race of shapeshifters. Changelings are rare and tend to live among other races. The only known community of Changelings lives on the [[Mistborne Isles]] and serves the [[Raven Queen]] by protecting a [[Shadowfell#Shadow Gate|Shadow Gate]].
 
 ---
 

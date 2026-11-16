@@ -2,6 +2,8 @@
 type: article
 aliases:
   - New World
+tags:
+  - location
 ---
 An archipelago that is still being explored. Unlike in [[Erastrea]], magic is not outlawed in Talia.
 

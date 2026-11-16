@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - location
 ---
 A chain of mountains to the west of the [[Mountains of Mourning]]. It is home to many Dwarven holds such as [[Lessia]] or [[Karak Elgraz]].
 

@@ -1,8 +1,12 @@
 ---
 type: article
 aliases:
+tags:
+  - location
+  - demon
+  - plane
 ---
-The plane of demons, it is also called The Outer Rifts. The Abyss has an infinite amount of layers within which demon lords carve out their own realms.
+The plane of [[Demon|demons]], it is also called The Outer Rifts. The Abyss has an infinite amount of layers within which demon lords carve out their own realms.
 
 ---
 

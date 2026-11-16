@@ -3,6 +3,9 @@ type: article
 aliases:
   - tower in Jotunheim
   - Linzi's tower
+tags:
+  - location
+  - plane
 ---
 A mysterious tower in [[Jotunheim]]. The inside of the tower is a Demiplane. The party found the Note to future self written by one "Linzi" and carried out the listed tasks. In the absence of the tower's original occupant, Fearghas "called dibs" on the structure and occasionally teleports there.
 

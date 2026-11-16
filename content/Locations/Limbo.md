@@ -2,6 +2,9 @@
 type: article
 aliases:
   - Maelstrom
+tags:
+  - location
+  - plane
 ---
 A plane of supreme chaos, an ever-changing storm of matter, colour, thought, and energy. It can be shaped by thoughts, but any order created this way will fall apart at the smallest moment of distraction.
 

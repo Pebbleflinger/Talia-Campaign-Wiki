@@ -1,6 +1,10 @@
 ---
 type: article
 aliases:
+tags:
+  - location
+  - plane
+  - celestial
 ---
 Also known as the Seven Heavens, it is a plane of goodness shaped by law, and justice tempered with mercy. It appears as one gigantic mountain with a flat summit. Planar travel is only possible to the city of Heaven's Shore on the first layer, Threshold.
 

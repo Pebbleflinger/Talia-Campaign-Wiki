@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - location
 ---
 A chain of mountains to the north of [[Taldor]].
 

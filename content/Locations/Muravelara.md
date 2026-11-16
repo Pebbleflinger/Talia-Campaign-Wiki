@@ -2,6 +2,10 @@
 type: article
 aliases:
   - Mura
+tags:
+  - location
+  - plane
+  - Hag
 ---
 A domain in the [[Abyss]]. It is a dreary swamp, home to Gyronna's Daughters and other Hags. There are only two moon phases in Muravelara, in opposition to the full moon and new moon of the Material Plane.
 

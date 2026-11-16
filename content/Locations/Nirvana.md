@@ -1,6 +1,9 @@
 ---
 type: article
 aliases:
+tags:
+  - location
+  - plane
 ---
 Also called the Sanctuary of Enlightenment, it is a plane of pure good unrestricted by law nor disrupted by chaos. [[Shelyn]] and [[Sarenrae]] reside in Nirvana.
 

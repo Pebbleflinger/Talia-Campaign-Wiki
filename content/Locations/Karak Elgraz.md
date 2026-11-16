@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - location
 ---
 A Dwarven hold neighbouring [[Lessia]], it was mostly destroyed when [[Dahak]]'s corpse fell on it.
 

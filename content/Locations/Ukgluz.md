@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - location
 ---
 A [[Duergar]] settlement close to and below [[Lessia]]. Ukgluz is an industrial place, built of rough black stone. The smoke of furnaces darkens the air of the cavern it stands in. Slavery is commonplace in the city.
 
@@ -9,6 +11,10 @@ Duergar armed with glaives guard the walls, but the city is also defended by sta
 ## Sceptre of Azgal
 
 A mysterious item that was stolen by [[House Vandree]] from the shrine to [[Azgal|Azgal]] in Nonus 1497.
+
+## Demon engines
+
+Statues that animate to defend Ukgluz.
 
 ---
 

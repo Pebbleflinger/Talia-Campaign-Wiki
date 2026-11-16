@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - location
 ---
 An archipelago to the south of [[Strazhland]] across the Zimakrovya Sound.
 
