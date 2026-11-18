@@ -2,6 +2,7 @@
 type: article
 aliases:
   - devils
+  - devil
 tags:
   - ancestry
 ---

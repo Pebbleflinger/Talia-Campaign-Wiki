@@ -3,6 +3,7 @@ type: article
 aliases:
 tags:
   - ancestry
+  - Elf
 ---
 Elves from the [[Shadowfell]]. They are led by [[Lady Aladriss]] and follow the [[Raven Queen]].
 

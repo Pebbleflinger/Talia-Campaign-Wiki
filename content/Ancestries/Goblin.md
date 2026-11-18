@@ -1,6 +1,7 @@
 ---
 type: article
 aliases:
+  - Goblins
 tags:
   - ancestry
 ---
