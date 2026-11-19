@@ -8,6 +8,10 @@ tags:
 ---
 An elderly [[Goblin]] who is the shaman of his tribe. Plex can control gravity and time, but his true potential lies in his utterly unpredictable creativity. Unlike the rest of the party, Plex' plane of origin is the [[Feywild]].
 
+## Fishy Magic
+
+One of Plex' Mythic abilities, it allows him to make a copy of a spell right after casting it. However, the copy always smells like fish.
+
 ## Plex' Demilich
 
 A skull found by Plex in the [[Tower in Jotunheim|tower in Jotunheim]]. It is assumed to be the remains of a Lich who failed to consume mortal souls, but no more is known about it as Plex promptly threw it into a portal to the [[Void]] as a sacrifice, and asked for a friend in return.

@@ -11,7 +11,11 @@ A tall and muscular [[Harpy]] woman who receives the blessings of animal spirits
 
 ## Key to the World
 
-One of the greatest parts of Aviana's legend is that she broke the Key to the World, a mysterious crystal which kept the [[Dragon Aspect|Dragon Aspects]] (and all other dragons) imprisoned. 
+One of the greatest parts of Aviana's legend is that she broke the Key to the World, a mysterious crystal which kept the [[Dragon Aspect|Dragon Aspects]] (and all other dragons) imprisoned.
+
+## Thunderfeet Footwraps
+
+A pair of footwraps which cause an explosion every time Aviana lands from a jump. They are cursed so she does not want to take them off, but even if the curse were lifted she would probably keep them on.
 
 ## Iron Flask
 

@@ -29,7 +29,7 @@ I suddenly get upsetting dreams of Fearghas sinking in bubbling darkness. There 
 
 "I will pitch you like a baseball." - Aviana, 1497
 
-And she does in fact, chuck the goblin and jumps away, landing in a massive explosion due to her cursed **Thunderfeet Footwraps**… Realising that jumping was a poor decision, she walks back to the cabin. She still cannot enter it due to being massive. She tries to cover herself with a dozen tiny (for her) blankets. I could probably wrap myself up in just one of these blankets like one Halfling maki roll.
+And she does in fact, chuck the goblin and jumps away, landing in a massive explosion due to her cursed **[[Aviana Winterwing#Thunderfeet Footwraps|Thunderfeet Footwraps]]**… Realising that jumping was a poor decision, she walks back to the cabin. She still cannot enter it due to being massive. She tries to cover herself with a dozen tiny (for her) blankets. I could probably wrap myself up in just one of these blankets like one Halfling maki roll.
 
 Fearghas finally finds Barrik's party, they wonder why he is drenched but he clears it up with **Prestidigitation**. Even this much magic is terrifying to dwarves of Lessia, but Fearghas promises it's going to be all right, that magic is not scary. (I press X.) He works hard at convincing them that TELEPORTING is not scary magic. It takes one full hour, but props to ya, Fearghas. They all appear in Locus at dawn, and make their way to the cabin by morning.
 

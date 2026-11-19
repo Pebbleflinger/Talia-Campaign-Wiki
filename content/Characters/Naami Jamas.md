@@ -15,6 +15,10 @@ A [[Halfling]] from the remote island of [[Ildilas]]. She excels in healing magi
 
 Pieces of jewellery commonly worn by the people of [[Ildilas]]. Spellwards (or wards for short) can be anything from bracelets to rings or necklaces, but they are all made of a silvery alloy that slightly inhibits spellcasting. The Ildic culture around spellwards is extensive. Naami's spellwards are two silvery bracelets which were made by her father [[Sael]], one of which has a sooty black stain.
 
+## Piercing the Veil
+
+One of Naami's innate abilities, it allows her to see through darkness (natural and magical) for one minute.
+
 ## Onyx Dog Figurine
 
 A small carving of a dog. Upon saying the command word "ambulance", the figurine turns into a black mastiff. Naami occasionally rides on the dog's back and affectionately calls him Dwen the Ambulance Dog or Dwen the Rock.

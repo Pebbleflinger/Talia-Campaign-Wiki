@@ -2,7 +2,7 @@
 type: article
 aliases:
 ---
-One of [[Naami Jamas|Naami]]'s innate abilities, it allows her to see through darkness (natural and magical) for one minute.
+A [[Drow]] man who is a slave to [[Filrae Vandree|matron Vandree]]. He cared for [[Naami Jamas|Naami]] when she was sick, and they have become friends.
 
 ---
 
