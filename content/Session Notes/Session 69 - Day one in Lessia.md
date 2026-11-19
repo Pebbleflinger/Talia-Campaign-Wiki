@@ -1,8 +1,7 @@
 ---
 type: session
 ---
-[[Naami Jamas|]]
-I meet the heroes at the gate. They are very kind to me, [[Aviana Winterwing|Aviana]] is a lot bigger than I expected! She nearly tramples some of the king's guards by mistake. Apparently this is temporary; [[Fearghas MacAllistar|Fearghas]] gave her a lot of non-soup potion?
+I meet the heroes at the gate. They are very kind to me, Aviana is a lot bigger than I expected! She nearly tramples some of the king's guards by mistake. Apparently this is temporary; Fearghas gave her a lot of non-soup potion?
 
 The undead army threatening **[[Lessia]]** was scattered, so the king is preparing to throw a big party. There will probably not be any lemoncakes, but I still want to go.
 
@@ -14,7 +13,7 @@ The advisor, **[[Mordram]]**, returns with the king, who remains behind an honou
 
 We leave the king's hall, and a giant Aviana waves at us. As if she was not TOWERING above everyone present. She proceeds to apologise for the rudeness. She has been speaking with the captain of the guard, **[[Torgrus]]**. He appears very tired, for some reason…
 
-[[Shalkoc Zornaxc|Shalkoc]] is ravenous, and Aviana goes on about her glasses. Fearghas is pleased by the outcome, somehow. Aviana thought I was a child, due to my very small size. I am offended. She is simply too tall!
+Shalkoc is ravenous, and Aviana goes on about her glasses. Fearghas is pleased by the outcome, somehow. Aviana thought I was a child, due to my very small size. I am offended. She is simply too tall!
 
 As Mordram said quite clearly that Fearghas smells (he indeed does), **[[Linzi the bard|Linzi]]** recommends walking to a clear lake outside the gates to take a bath. Shalkoc is unwilling, and would rather kidnap a glassblower. Nobody wants to let Aviana stomp to the lake alone.
 

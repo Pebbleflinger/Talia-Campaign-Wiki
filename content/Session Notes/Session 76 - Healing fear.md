@@ -1,10 +1,9 @@
 ---
 type: session
 ---
-[[Naami Jamas|]]
-[[Aviana Winterwing|Aviana]] and [[Plex]] begin to argue, which ends as usual with Aviana grabbing Plex by the throat and squeezing, and them both disappearing. Teleportation out of here is impossible, so we assume they are still in the lair. [[Fearghas MacAllistar|Fearghas]] pulls out alchemical supplies, grumbles at our friends' disappearance, and we hear a sound coming from the north-east corridor. Fearghas says the **telepathic bond** ended when I bring it up, so we go look for them using our little feet, [[Emilio Astray|Emilio]] and I leaving a trail of blood from our injuries. Emilio's blood is black?!
+Aviana and Plex begin to argue, which ends as usual with Aviana grabbing Plex by the throat and squeezing, and them both disappearing. Teleportation out of here is impossible, so we assume they are still in the lair. Fearghas pulls out alchemical supplies, grumbles at our friends' disappearance, and we hear a sound coming from the north-east corridor. Fearghas says the **telepathic bond** ended when I bring it up, so we go look for them using our little feet, Emilio and I leaving a trail of blood from our injuries. Emilio's blood is black?!
 
-We follow the twisting corridor to a room where we find a small Malleable that has… wings? Behind it is a **large black egg**. Emilio and Fearghas immediately blast the Malleable; its body melts into the ground, leaving feathers behind. The egg is warm and has a thin, slimy shell like a snake egg. Fearghas and [[Shalkoc Zornaxc|Shalkoc]] say it looks nothing like a dragon egg… How do they know that? Not the time to ask. Something is moving sluggishly inside the egg. A humanoid hand seems to try to break through the shell, but is too weak to do so.
+We follow the twisting corridor to a room where we find a small Malleable that has… wings? Behind it is a **large black egg**. Emilio and Fearghas immediately blast the Malleable; its body melts into the ground, leaving feathers behind. The egg is warm and has a thin, slimy shell like a snake egg. Fearghas and Shalkoc say it looks nothing like a dragon egg… How do they know that? Not the time to ask. Something is moving sluggishly inside the egg. A humanoid hand seems to try to break through the shell, but is too weak to do so.
 
 Before Fearghas can advise against this course of action, Emilio punches a hole through the egg, spilling fluid onto himself. Inside the egg is a gooey, dishevelled… **human woman**. She is not happy, understandably so. She is small, blonde with green eyes, wearing black armour. Groggily, she asks where she is.
 
@@ -16,7 +15,7 @@ Before Fearghas can advise against this course of action, Emilio punches a hole 
 
 5 **iridescent feathers** on the ground, untouched by the filth.
 
-The blonde woman introduces herself as [[Kyrin Niteshade|Kyrin]]. She is spooked by Shalkoc, towering over the party. She offers me a healing potion, then upon seeing Emilio, hands it to him instead. No hard feelings. He is hurt even worse than I am. She hands me a second healing potion. Emilio and me drink gratefully; a little of the tension goes out of him.
+The blonde woman introduces herself as Kyrin. She is spooked by Shalkoc, towering over the party. She offers me a healing potion, then upon seeing Emilio, hands it to him instead. No hard feelings. He is hurt even worse than I am. She hands me a second healing potion. Emilio and me drink gratefully; a little of the tension goes out of him.
 
 We return to the drained blood pool and Fearghas carries out the ritual for **Leomund's Tiny Hut**. Kyrin examines herself, checking for any unnatural growths that may have occurred while she was in the egg. Her shadow seems… strange. Doesn't move quite right, like it's lagging behind. I speak up, but Fearghas and Kyrin say I'm maybe seeing things. For a moment her shadow looked like mine… I must be imagining. Shalkoc cooks a thankfully vegetarian soup for Emilio and me.
 

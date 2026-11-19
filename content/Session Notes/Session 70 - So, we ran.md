@@ -1,20 +1,19 @@
 ---
 type: session
 ---
-[[Naami Jamas|]]
 After being accused by the [[King Gandogar|king of Lessia]] of controlling the undead army, Fearghas refuses to put up with any more of that nonsense, and teleports us all to their flying island, **[[Promise]]**. Wait… me too? What about **[[Linzi the bard|Linzi]]**? We can't leave her behind!
 
-As we materialise, there is a sound of metal falling, and **[[Plex]]** appears, trying to carry three full sets of plate armour, and failing. He takes a tumble and has a grumble about carrying all this. (Thank you Domi for the pipes falling sound, peak immersion.) [[Aviana Winterwing|Aviana]] offers ME Linzi's job, but I decline saying we must go back for my Halfling friend. Plex claims he traded the dead body that was inside one of the suits of plate armour while he was in the **[[Feywild]]**. [[Fearghas MacAllistar|Fearghas]] and Aviana are trying very hard to get him to say what he got in exchange for the body.
+As we materialise, there is a sound of metal falling, and **Plex** appears, trying to carry three full sets of plate armour, and failing. He takes a tumble and has a grumble about carrying all this. (Thank you Domi for the pipes falling sound, peak immersion.) Aviana offers ME Linzi's job, but I decline saying we must go back for my Halfling friend. Plex claims he traded the dead body that was inside one of the suits of plate armour while he was in the **[[Feywild]]**. Fearghas and Aviana are trying very hard to get him to say what he got in exchange for the body.
 
 Plex traded the body of a dead dwarven hero for the freedom of his goblin friends **[[Antx]] and [[Prantx]]**. He said it just in time to stop Fearghas from having a seizure. I'm not sure if I could heal that, definitely not with my wards on. Shudder…
 
-We argue about the morality of eating and selling people. Could I heal myself if I had a seizure? I feel like I might find out, after hearing [[Shalkoc Zornaxc|Shalkoc]]'s arguments about selling organs. We also discuss what to do with the undead dragon's corpse, which Aviana is still lugging around like it's nothing.
+We argue about the morality of eating and selling people. Could I heal myself if I had a seizure? I feel like I might find out, after hearing Shalkoc's arguments about selling organs. We also discuss what to do with the undead dragon's corpse, which Aviana is still lugging around like it's nothing.
 
 Aviana contacts Linzi with a spell gem of **Sending** ("the rock from the Hell Lady"), and tells her to return to Promise. Linzi replies that she is hiding in the mines of [[Lessia]] with **[[Barrik]]**. Fearghas contacts Barrik with his own Sending spell, asking what is going on and whether Barrik needs picking up. Barrik replies that the king has started forcefully arresting people, and he fled with other people towards **[[Ukgluz]]**.
 
 Fearghas turns into a cloud and skedaddles off to the mines of Lessia to teleport Barrik and his party to Promise. I slump on a couch inside the cabin, trying to recover from the whirlwind I have been swept into, when Aviana yells to me about dwarven smut stories, and Plex is looking for a sharp rock. Shalkoc is going up to his hoard to stow the dead undead dragon there. The dragon whom we sharply reminded of its own demise. Shalkoc wants it, for some reason. Aviana is looking for tools to make a tiara… for… me? Out of jade and dragon… bits? One of Shalkoc's scales? And a brick? She seems to struggle immensely, I somehow feel like Fearghas is here with us, shaking his head.
 
-Aviana fumbles her crafting, and asks Shalkoc for further scales. I have a feverish image in my head of a harpy attempting to pluck a [[Dragonborn]] like a chicken. In my defence, it is one in the morning, I have survived a battle and been teleported to a floating island, and feel I am starting to lose my wits.
+Aviana fumbles her crafting, and asks Shalkoc for further scales. I have a feverish image in my head of a harpy attempting to pluck a Dragonborn like a chicken. In my defence, it is one in the morning, I have survived a battle and been teleported to a floating island, and feel I am starting to lose my wits.
 
 I make some tea, and try to convince Plex to partake in a relaxing brew, but he sneaks off to town rambling about paint and gambling. He ignores my pleas about going to bed, and gets stopped at the gates by a guard who is convinced that our goblin is drunk. Plex attempts to explain that he lives in the forest, and much like Shalkoc earlier on the topic of selling people, or parts thereof, he only mires himself deeper. The guard leads him to the barracks to sleep off the assumed ale. Plex sneaks off, and wakes the entire town as he raises an alarm.
 
