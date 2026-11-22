@@ -4,7 +4,7 @@ aliases:
 tags:
   - Dragon
 ---
-The [[Dragon Aspect]] of Family, Ishtar the Blue.
+The [[Dragon Aspect]] of Family, Ishtar the Blue. She is the mother of all blue dragons, and her magic can alter the weather and create violent storms.
 
 ---
 

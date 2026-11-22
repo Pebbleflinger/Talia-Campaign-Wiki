@@ -27,6 +27,10 @@ A small carving of a dog. Upon saying the command word "ambulance", the figurine
 
 Naami's Umbral Spirit, a shadowy panther brought into being by a spell and a black sapphire. Fade does not speak, but she understands the languages Naami speaks.
 
+## Wand of Catnap
+
+A wand topped with a figurine of a sleeping cat. Naami can use it to sing a little song, give a soothing head pat, and put up to seven willing people to sleep to grant them a short rest in 10 minutes.
+
 ---
 
 > [!NOTE]- Mentioned in Sessions
