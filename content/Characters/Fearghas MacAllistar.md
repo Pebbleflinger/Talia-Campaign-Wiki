@@ -13,6 +13,10 @@ A [[Dwarf]] of [[Lessia]] extremely accomplished in magic. Also an alchemist by 
 Fearghas' Bag of Holding, but it regularly throws creative insults at him. Favourites include but are not limited to:
 - Your last two braincells are fighting for third place.
 
+## Glasses of True Seeing
+
+A pair of glasses that can be activated to gain Truesight for ten minutes.
+
 ## Voidborn Explorer's Spellbook
 
 A spellbook Fearghas found in the [[Tower in Jotunheim|tower in Jotunheim]]. It's an ancient tome which contains spells, but also shifting star charts.

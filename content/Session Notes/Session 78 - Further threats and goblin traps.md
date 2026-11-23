@@ -7,7 +7,7 @@ type: session
 
 **[[Ley Lines]]** are rivers of mana left over by the mixing of positive and negative energy. The [[High Elf|High Elves]] of **[[Aethel'eren]]** (an island far east of [[Quadira]]) use Ley Lines in their magic.
 
-A temple to [[Nethys]], goddess of magic, buried under the **[[Redwind Sands]]**, could contain information about lichdom.
+A temple to [[Nethys]], god of magic, buried under the **[[Redwind Sands]]**, could contain information about lichdom.
 
 Shadows are reflections of strong emotions or events in the [[Material Plane]] that leave echoes in the [[Shadowfell]]. This can also happen the other way around, though it is a lot rarer.
 
@@ -117,7 +117,7 @@ Kali says we can contact her by speaking to any of the **spiders** here. Spiders
 
 Kali enquires about Kyrin's shapeshifting ability. Kyrin explains it's part of who she is, not something learnt. Kali seems sad about this, and says a lot of people would pay good money to hire her. Kyrin says yes, she was working for the Drow, it did not go well. Kali is very confused at the talk of the egg and the Sibriex lair. I kindly ask that we don't speak of this further. Sarenrae knows, I have plenty of nightmares as it is.
 
-Kyrin starts chatting with Kali telepathically using **Psychic Whispers**. Kali also says she can teach us certain spells, given time. She can teach me to speak with the spiders! I definitely want to spend some time with her, not only for the spells, I want to plant my trees! Kali casually mentions that the two easternmost doors are trapped, so Kyrin decides to sleep on the couch, it's safer than trying to open doors.
+Kyrin starts chatting with Kali telepathically using **[[Kyrin Niteshade#Psychic Whispers|Psychic Whispers]]**. Kali also says she can teach us certain spells, given time. She can teach me to speak with the spiders! I definitely want to spend some time with her, not only for the spells, I want to plant my trees! Kali casually mentions that the two easternmost doors are trapped, so Kyrin decides to sleep on the couch, it's safer than trying to open doors.
 
 Kali invites Kyrin and me to join her on the other side of the island, where it is much quieter (glares at Plex). Aviana wants Kali to teach her many knots, so she can tie up Plex. Kali demonstrates the restraining of short people by spitting spiderweb on Kyrin in child form, and wraps her up in a spider cocoon so she cannot move at all. Aviana is interested, spits on the ground, doesn't seem to work. Kali slices Kyrin free with exceptional dagger skills. We imagine if Kali wanted to hurt Kyrin, Kyrin would have been dead _last week_.
 
