@@ -4,7 +4,7 @@ aliases:
 tags:
   - deity
 ---
-Also known as *The All-Seeing Eye*, Nethys is a goddess of magic. Her realm Ahkanefti is located in [[Limbo]].
+Also known as *The All-Seeing Eye*, Nethys is a god of magic. His realm Ahkanefti is located in [[Limbo]]. His symbol is a mask half white and half black.
 
 ---
 

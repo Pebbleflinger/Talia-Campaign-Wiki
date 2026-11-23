@@ -4,7 +4,7 @@ aliases:
 tags:
   - location
 ---
-A seaside nation in [[Erastrea]]. Taldor is an imperium where magic is outlawed for any but the elite. The Taldorian ruler is Emperor Tiberius Octavius Magnus.
+A seaside nation in [[Erastrea]]. Taldor is an imperium where magic is outlawed. The party knows Taldorian nobles make use of magic, but they keep it quiet and pay their way out of investigation or punishment. The Taldorian ruler is Emperor Tiberius Octavius Magnus.
 
 ## Taldor Augusta
 

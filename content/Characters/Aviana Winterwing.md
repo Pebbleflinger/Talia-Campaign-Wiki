@@ -13,6 +13,10 @@ A tall and muscular [[Harpy]] woman who receives the blessings of animal spirits
 
 One of the greatest parts of Aviana's legend is that she broke the Key to the World, a mysterious crystal which kept the [[Dragon Aspect|Dragon Aspects]] (and all other dragons) imprisoned.
 
+## Transdimensional Anchorchain
+
+The metaphysical chain affixed to the Transdimensional Anchor, a gift from [[Utgard-Loki]]. Aviana placed the Anchor in Promise, initially in the marketplace in the middle of town. She later moved it outside the settlement after the dinosaur sausage incident on the 6th of Duodecimus 1497. Aviana carries the Anchorchain with her, and can pull it to open a portal to the Anchor, even across planes. This requires superhuman strength and Aviana is the only party member capable of it.
+
 ## Thunderfeet Footwraps
 
 A pair of footwraps which cause an explosion every time Aviana lands from a jump. They are cursed so she does not want to take them off, but even if the curse were lifted she would probably keep them on.
