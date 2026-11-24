@@ -5,7 +5,7 @@ tags:
   - celestial
   - Heaven
 ---
-An angel whom the party met in front of Heaven's Gate. Naami saved his life in a battle against [[Devil|devils]], but the rest of Ezeriel's host was cut down before she could intervene.
+An angel whom the party met in front of Heaven's Gate. Naami saved his life in a battle against [[Devil|devils]], but the rest of Ezeriel's host was cut down before she could intervene. One of his companions was named Solara, and she liked to go buy herbs.
 
 ---
 

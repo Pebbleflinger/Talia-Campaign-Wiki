@@ -12,6 +12,9 @@ A plane also known as the Nine Hells or the Pit, it is shaped by evil and law. H
 
 The first layer of Hell, it is ruled by the Archdevil [[Zariel]]. Avernus is a desolate landscape of burning heat and meteor showers.
 
+## The Black Vents
+
+
 ## Dis
 
 The second layer of Hell, it is an endless city of burning heat dominated by the Iron Tower where the Archdevil [[Dispater]] rules in his paranoia.

@@ -8,9 +8,17 @@ tags:
 ---
 An elderly [[Goblin]] who is the shaman of his tribe. Plex can control gravity and time, but his true potential lies in his utterly unpredictable creativity. Unlike the rest of the party, Plex' plane of origin is the [[Feywild]].
 
+## Shadow Lantern
+
+A crude black iron lantern that can be carried safely only by Plex and Aviana, as they are both marked by [[Elsa]]. On each full moon or new moon, Plex can activate the lantern to transport himself and any unfortunate bystanders to [[Muravelara]].
+
 ## Fishy Magic
 
 One of Plex' Mythic abilities, it allows him to make a copy of a spell right after casting it. However, the copy always smells like fish.
+
+## Planetrotting
+
+Like the spell Plane Shift, this spell allows Plex to teleport himself and willing creatures to another plane of existence. However, unlike the spell Plane Shift, this spell has a high chance of misfiring and transporting Plex to a different plane than the one he was aiming for. Also unlike Plane Shift, which requires a tuning fork tuned to the specific frequency of the target plane, Planetrotting consumes a mundane, but outrageously expensive fork.
 
 ## Plex' Demilich
 

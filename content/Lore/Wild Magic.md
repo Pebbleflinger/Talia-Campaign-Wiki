@@ -3,6 +3,7 @@ type: article
 aliases:
   - wild magic surge
   - surge
+  - wild magic surges
 ---
 For thousands of years, magic has been unstable. Any spell or magic item can cause a wild magic surge with completely unpredictable consequences, ranging from amusing to devastating. For this reason, magic is feared and outlawed in most of the [[Erastrea|Old World]].
 
