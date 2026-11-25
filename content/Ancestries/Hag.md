@@ -1,6 +1,7 @@
 ---
 type: article
 aliases:
+  - Hags
 tags:
   - Fey
   - demon

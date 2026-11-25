@@ -12,8 +12,9 @@ A plane also known as the Nine Hells or the Pit, it is shaped by evil and law. H
 
 The first layer of Hell, it is ruled by the Archdevil [[Zariel]]. Avernus is a desolate landscape of burning heat and meteor showers.
 
-## The Black Vents
+## Black Vents
 
+A wide crater located on Avernus. It is actually a planar wound, a spot where two planes were fused by a Wish spell and were then torn open by the denizens of Hell. Fearghas' research into the Black Vents made mention of the Demon Lord of Monsters and Multitude, Lamashtu.
 
 ## Dis
 

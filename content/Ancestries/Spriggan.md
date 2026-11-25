@@ -1,6 +1,7 @@
 ---
 type: article
 aliases:
+  - Spriggans
 tags:
   - Fey
 ---

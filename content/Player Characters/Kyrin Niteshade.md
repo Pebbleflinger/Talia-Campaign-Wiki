@@ -12,6 +12,10 @@ A [[Changeling]] from [[Taldor#Taldor Augusta|Taldor Augusta]]. Orphaned at a yo
 
 One of Kyrin's psionic abilities, it allows her to establish a telepathic connection with others. Unlike Rary's Telepathic Bond, Psychic Whispers always go through Kyrin before reaching someone else, causing slight latency.
 
+## Psychic Blade
+
+Another psionic ability of Kyrin's. She can manifest daggers with her mind to stab or throw, and teleport to where these blades land.
+
 ## Beacon of Doom
 
 When Kyrin made a contract with Zariel on the 30th of Nonus 1497, she agreed to take this artifact to the 3rd layer of [[Heaven]] to act as a portal to [[Hell]]. This contract was later broken thanks to the help of Master Artificer [[Kazzim-Aleph-1]] in [[Mechanus]]. Upon studying the Beacon of Doom, [[Kazzim-Aleph-1|Master Kazzim]] said the artifact was over 1500 years old and originates from [[Nethys]]' realm, Akhanefti.

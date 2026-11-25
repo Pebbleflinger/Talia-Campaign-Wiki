@@ -29,6 +29,10 @@ A mysterious iron flask in Aviana's keeping. She is known to throw it at creatur
 
 A chain made of dark metal, like steel covered in soot. It inhibits low-level casting and generally makes spellcasters feel sluggish and unfocused. The [[Duergar]] priests make these chains by using the blood of [[Celestial|angels]]. Every day, Aviana longs to wrap it around Plex.
 
+## Painter's Plume
+
+A beautiful piece of jewellery consisting of a delicate latticework of fine, iridescent silver chains which Aviana wears draped over her wings. With the command word "Aviana", she can change the colour of her wings at will. The Painter's Plume was crafted by [[Ventriel]] and is a present from [[Kyrin Niteshade|Kyrin]].
+
 ---
 
 > [!NOTE]- Mentioned in Sessions

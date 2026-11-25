@@ -13,6 +13,10 @@ A [[Dwarf]] of [[Lessia]] extremely accomplished in magic. Also an alchemist by 
 Fearghas' Bag of Holding, but it regularly throws creative insults at him. Favourites include but are not limited to:
 - Your last two braincells are fighting for third place.
 
+## Traitorous Blood
+
+A disturbing spell Fearghas can cast to control the blood of a creature, allowing him to puppeteer it. Naami has expressed great concern over the use of that spell, but Fearghas responded with "I'd rather have it and not need it than need it and not have it." The party learnt this spell is used by Blood [[Hag|Hags]] as an art of [[Gyronna]]'s.
+
 ## Glasses of True Seeing
 
 A pair of glasses that can be activated to gain Truesight for ten minutes.

@@ -1,6 +1,7 @@
 ---
 type: article
 aliases:
+  - Dryads
 tags:
   - ancestry
   - Fey
