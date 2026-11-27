@@ -4,7 +4,7 @@ aliases:
 tags:
   - deity
 ---
-A god of destruction who was put in chains by other gods to prevent the destruction of the world. Rovagug's Chains were forged by Surtr and Torag, and must be reforged lest Rovagug breaks free.
+A god of destruction who was put in chains by other gods to prevent the destruction of the world. Rovagug's Chains were forged by Surtr and [[Torag]], and must be reforged lest Rovagug breaks free.
 
 ---
 

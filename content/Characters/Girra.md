@@ -5,7 +5,7 @@ aliases:
 tags:
   - Dragon
 ---
-The mother of all red dragons, she is the Dragon Aspect of Responsibility. Girra is known to cull her children when they don't fit her ideal of what a dragon looks like. The party learnt this from the wingless dragon [[Imix]].
+The mother of all red dragons, she is the Dragon Aspect of Responsibility. Girra the Red is known to cull her children when they don't fit her ideal of what a dragon looks like. The party learnt this from the wingless dragon [[Imix]].
 
 ---
 

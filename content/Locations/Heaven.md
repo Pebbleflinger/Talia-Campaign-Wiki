@@ -17,6 +17,10 @@ In Heaven's Shore, the party received treatment and healing at the infirmary, mo
 
 A trail up Mount Celestia, it is the only way to ascend past the first layer of Heaven. Every walk up the path becomes a journey of self-reflection and faith, where physical distance does not matter as much as the traveller's pilgrimage. The Pilgrim's Path is only open to those bearing an invitation to the higher levels.
 
+## Mercuria
+
+The second layer of Heaven, Mercuria is a place of beautiful rolling plains. It is home to [[Iomedae]] among other deities, and great warriors spend their afterlife here. The party was invited to Mercuria to attend a ceremony in honour of [[Ezeriel]]'s fallen friends.
+
 ---
 
 > [!NOTE]- Mentioned in Sessions

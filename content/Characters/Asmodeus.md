@@ -4,7 +4,7 @@ aliases:
 tags:
   - Devil
 ---
-
+The lord of the Nine Hells (or [[Hell]] for short), he rules from the lowest layer. His lieutenants the Archdevils oversee the other layers.
 
 ---
 

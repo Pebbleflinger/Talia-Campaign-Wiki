@@ -5,7 +5,7 @@ tags:
   - Dragon
   - deity
 ---
-
+The *Dragon Queen*, she was born of the [[Material Plane]] alongside [[Bahamut]]. In their clash and mutual destruction, they gave rise to the ten [[Dragon Aspect|Dragon Aspects]].
 
 ---
 

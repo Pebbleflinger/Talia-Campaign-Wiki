@@ -3,6 +3,8 @@ type: article
 aliases:
 tags:
   - Siren
+  - Taldor
+  - Promise
 ---
 A Siren, sister to Araphia. The two sisters live some distance off the coast of [[Taldor#Taldor Augusta|Taldor Augusta]], in the waters known as the Galleon's Graveyard. After [[Emilio Astray|Emilio]] gave her a gold pendant as an apology for fighting her, Aradeia became very attached to him.
 

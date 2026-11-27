@@ -2,7 +2,6 @@
 type: article
 aliases:
 tags:
-  - deity
   - Shadowfell
 ---
 The ruler of the [[Shadowfell]] and twin to [[Titania]]. 

@@ -11,9 +11,6 @@ Also known as *The Ebon Fire*, Azgal is a deity worshipped by the [[Duergar]]. A
 There is a shrine to Azgal in [[Ukgluz]].
 
 
-
-
-
 ---
 
 > [!NOTE]- Mentioned in Sessions

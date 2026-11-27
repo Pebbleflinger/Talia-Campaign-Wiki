@@ -1,6 +1,8 @@
 ---
 type: article
 aliases:
+tags:
+  - Drow
 ---
 A [[Drow]] man who is a slave to [[Filrae Vandree|matron Vandree]]. He cared for [[Naami Jamas|Naami]] when she was sick, and they have become friends.
 
