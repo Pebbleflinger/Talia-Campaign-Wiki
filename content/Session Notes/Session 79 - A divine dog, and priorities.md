@@ -40,7 +40,7 @@ The problem is, Fearghas can't teleport us to [[Hell]] until Saturday. We could 
 
 Kali goes off to [[Lessia]] to scout. Kyrin goes to bother Aviana and Kaar because FLUFFY. Kali returns around midnight, alone. She left a letter for Fearghas' parents so they know they are being rescued. Kyrin asks about her connections in Taldor; I mention the need for scouts to Ildilas. Fearghas brews up **Potions of Supreme Healing**. He advises Shalkoc to ask around in Promise for craftsmen.
 
-Fearghas blows up at Plex about the mushroom pit in front of the door. I offer to help him relocate the mushroom pit so it's not in the way, while Fearghas stomps off. Kyrin considers cleaning her **Sunblade** just to mess up the Light-Shy mushrooms… While us small people are gardening, the grown-ups, plus Kyrin, are having serious talk with Kali about adventurers to hire. I join and outline three profiles of people I want as scouts:
+Fearghas blows up at Plex about the mushroom pit in front of the door. I offer to help him relocate the mushroom pit so it's not in the way, while Fearghas stomps off. Kyrin considers cleaning her **[[Kyrin Niteshade#Sun Blade|Sun Blade]]** just to mess up the Light-Shy mushrooms… While us small people are gardening, the grown-ups, plus Kyrin, are having serious talk with Kali about adventurers to hire. I join and outline three profiles of people I want as scouts:
 
 - a sailor with knowledge about the weather
     

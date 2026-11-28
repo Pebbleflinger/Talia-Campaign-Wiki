@@ -21,6 +21,10 @@ A trail up Mount Celestia, it is the only way to ascend past the first layer of 
 
 The second layer of Heaven, Mercuria is a place of beautiful rolling plains. It is home to [[Iomedae]] among other deities, and great warriors spend their afterlife here. The party was invited to Mercuria to attend a ceremony in honour of [[Ezeriel]]'s fallen friends.
 
+## Venya
+
+The third layer of Heaven, it consists of snowy mountains and settlements nestled in valleys, connected by roads and bridges. It is a place of artisans and community. [[Torag]]'s realm Forgeheart is located in Venya.
+
 ---
 
 > [!NOTE]- Mentioned in Sessions

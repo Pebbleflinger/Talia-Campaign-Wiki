@@ -49,7 +49,7 @@ On our way to get breakfast, we descend to the ~~ouija room~~ letter room. Plex 
     
 - deal with Shalkoc's and Fearghas' **contracts**
     
-- figure out what is happening with the Shadowfell
+- figure out what is happening with the [[Shadowfell]]
     
 - track down the Lich
     

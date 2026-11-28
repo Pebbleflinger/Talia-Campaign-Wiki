@@ -16,13 +16,18 @@ One of Kyrin's psionic abilities, it allows her to establish a telepathic connec
 
 Another psionic ability of Kyrin's. She can manifest daggers with her mind to stab or throw, and teleport to where these blades land.
 
-## Beacon of Doom
+## Sun Blade
 
-When Kyrin made a contract with Zariel on the 30th of Nonus 1497, she agreed to take this artifact to the 3rd layer of [[Heaven]] to act as a portal to [[Hell]]. This contract was later broken thanks to the help of Master Artificer [[Kazzim-Aleph-1]] in [[Mechanus]]. Upon studying the Beacon of Doom, [[Kazzim-Aleph-1|Master Kazzim]] said the artifact was over 1500 years old and originates from [[Nethys]]' realm, Akhanefti.
+One of Kyrin's swords, the Sun Blade is made of pure sunlight. When she is not fighting with it, the sword is only a hilt.
 
 ## Portable Hole
 
 A piece of fabric which turns into the opening of a hole when spread on a flat surface. Kyrin keeps food and adventuring supplies in the Portable Hole, but has also used it to carry the rest of the party for very short durations.
+
+## Beacon of Doom
+
+When Kyrin made a contract with Zariel on the 30th of Nonus 1497, she agreed to take this artifact to the 3rd layer of [[Heaven]] to act as a portal to [[Hell]]. This contract was later broken thanks to the help of Master Artificer [[Kazzim-Aleph-1]] in [[Mechanus]]. Upon studying the Beacon of Doom, [[Kazzim-Aleph-1|Master Kazzim]] said the artifact was over 1500 years old and originates from [[Nethys]]' realm, Akhanefti.
+
 
 ---
 

@@ -15,6 +15,14 @@ A [[Halfling]] from the remote island of [[Ildilas]]. She excels in healing magi
 
 Pieces of jewellery commonly worn by the people of [[Ildilas]]. Spellwards (or "wards" for short) can be anything from bracelets to rings or necklaces, but they are all made of a silvery alloy that slightly inhibits spellcasting. The Ildic culture around spellwards is extensive. Naami's spellwards are two silvery bracelets which were made by her father [[Sael]], one of which has a sooty black stain.
 
+## Staff of Power
+
+Naami's most powerful weapon, it is a crystal-topped staff she received under mysterious circumstances she won't speak about. She refuses to part with the staff, and can cast many spells from it, among which is Wall of Force. After a very emotional conversation with [[Clementiel|Master Clementiel]] in [[Heaven]], Naami began to think of the staff as [[Lioriel]]'s Staff.
+
+## Angel's Grace
+
+A white and silver robe embroidered with gold, gifted to Naami by [[Clementiel|Master Clementiel]]. As she follows the virtues of prudence, discernment, and conviction, the robe's power awakens. It also protects Naami and allows her to cast additional spells.
+
 ## Piercing the Veil
 
 One of Naami's innate abilities, it allows her to see through darkness (natural and magical) for one minute.

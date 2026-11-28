@@ -10,6 +10,10 @@ A [[Dragonborn]] monk who is, to his great despair, green and no longer black. T
 
 Though he is a Dragonborn, Shalkoc has the soul of a dragon and when he dies, it returns to his hoard where he reincarnates into an egg. After hatching, he rapidly grows to his adult size again.
 
+## Snack Pack
+
+Shalkoc's magic bag, it can fit large amounts of food and ingredients, and keep them from spoiling. Despite all of Shalkoc's magic gear, this is certainly his most prized possession.
+
 ## Little Finger of Dam'ghur
 
 A skeletal wand owned by Shalkoc. He can use it to cast False Life, Gentle Repose, and Speak with Dead. The wand can also destroy weak undead.
